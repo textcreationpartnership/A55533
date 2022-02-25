@@ -1,0 +1,880 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of indirect practices in the coal-trade, or A detection of the pernicious maxims and unfair dealings of a certain combination of men, who affirm, it is a cheat to be just, and just to cheat To which are added some proposals for the improvement of trade and navigation in general, and of the colliery-trade to New Castle in particular. By Charles Povey.</title>
+            <author>Povey, Charles, 1652?-1743.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55533</idno>
+            <idno type="STC">Wing P3040</idno>
+            <idno type="STC">ESTC R212936</idno>
+            <idno type="EEBO-CITATION">99825513</idno>
+            <idno type="PROQUEST">99825513</idno>
+            <idno type="VID">29897</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29897)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2014:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of indirect practices in the coal-trade, or A detection of the pernicious maxims and unfair dealings of a certain combination of men, who affirm, it is a cheat to be just, and just to cheat To which are added some proposals for the improvement of trade and navigation in general, and of the colliery-trade to New Castle in particular. By Charles Povey.</title>
+                  <author>Povey, Charles, 1652?-1743.</author>
+               </titleStmt>
+               <extent>[2], 45, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by and for H. Hills, and publish'd by A. Baldwin in Warwick-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coal trade --  Corrupt practices --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29897:1" rendition="simple:additions"/>
+            <p>
+               <hi>A DISCOVERY OF Indirect Practices IN THE COAL-TRADE, OR</hi> A Detection of the pernicious Maxims and un<g ref="char:EOLhyphen"/>fair Dealings of a certain Combination of Men, who affirm, <hi>It is a Cheat to be Juſt, and Juſt to Cheat.</hi>
+            </p>
+            <p>To which are added ſome Propoſals for the Improvement of Trade and Navigation in general, and of the Colliery-Trade to <hi>New Caſtle</hi> in particular.</p>
+            <p>
+               <hi>By</hi> Charles Povey.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by and for <hi>H. Hills,</hi> and Publiſh'd by <hi>A. Bald<g ref="char:EOLhyphen"/>win</hi> in <hi>Warwick</hi>-lane, <hi>1700.</hi>
+               <pb facs="tcp:29897:2"/>
+               <pb facs="tcp:29897:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:29897:3"/>
+            <pb n="1" facs="tcp:29897:3"/>
+            <head>A DISCOVERY OF <hi>Indirect Practices</hi> IN THE COAL-TRADE, OR <hi>The</hi> Combination, <hi>that affirms,</hi> It is a Cheat to be Juſt, and Juſt to Cheat, <hi>with the Vanity of Falſe and Malicious Reports de<g ref="char:EOLhyphen"/>tected, and expos'd to Publick View, by</hi> C. P.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>I Think myſelf oblig'd in ſeveral Reſpects, to Publiſh this ſhort Tract for my own Vindication; Not doubting in the leaſt, but it will be very acceptable to all impartial and diſintereſſed Perſons, tho' as unpleaſant to ſome few, that are otherwiſe diſpos'd: And to aſſUre thoſe few, who are my un<g ref="char:EOLhyphen"/>reaſonable
+<pb n="2" facs="tcp:29897:4"/>Enemies, That what I have done was not out of Choice, but meer Compulſion: Not to gratify any Malevolent Humour, but to make them ſenſible of their own Failings: Not with any Deſign to expoſe their Trade and Reputation, as they have done mine; but with a Deſire to Rectify every Thing that may be amiſs in them: Nay, what I have done, I had much rather have left undone, had there not been an abſolute neceſ<g ref="char:EOLhyphen"/>ſity for it: For what Man living can be ſilent, when he finds himſelf wrong'd in the higheſt Nature imaginable, and Robb'd of his Reputation, which is the richeſt Jewel in this World, that any one can be Maſter of? But after all this, I ſhould have been ſilent, and look't upon a few Words as a blaſt of Wind, that might have Vaniſh'd like a Morning-Cloud, or an early Dew: But when I perceiv'd my Name call'd into Queſtion, be<g ref="char:EOLhyphen"/>fore a Magiſtrate and a Court of Juſtice, for doing to others, as I would be done by: When I obſerv'd my Reputation endan<g ref="char:EOLhyphen"/>ger'd by twelve inconſiderate Men, even againſt the Conſent of a juſt Judge: When I ſaw every Thing, that was dear to me in the World, juſt a going to be Shipwrack'd on the Shoals of falſe and Malicious Reports; where many a good Reputation has been Split, and buried in the Land of Oblivion: Then I thought it high time to avoid ſo dangerous a Gulph before it was too late. Thus I Conſider'd with my ſelf, how eaſily I might prevent my own Ruin, and that of many more who may he under the ſame Misfortune with my ſelf, by putting a ſtop to the Proceedings of the Malicious: More eſpecially ſince I am ſo Fortunate as to have an opportunity of wiping off all the Aſperſions that have been moſt unjuſtly Caſt upon me; by the teſtimony of ſeveral Witneſſes of undoubted Credit; beſides many Arguments and Reaſons to Confirm it; none, I hope, will blame me for ſo doing: Nay, I am perſwaded, The worſt of my Enemies will forbear to cenſure my Conduct, when they ſuppoſe themſelves under the ſame Circumſtances, and ſeriouſly Conſider, that I have writ nothing but the real Truth in every Particular: For I deſire to proceed with all poſſible Moderation, without Paſſion or Prejudice, wiſhing them all the ſucceſs imaginable in their Lawful Undertakings; ſince my whole Deſign is, to Unde<g ref="char:EOLhyphen"/>ceive
+<pb n="3" facs="tcp:29897:4"/>the World, that no Man may be Impoſed upon, with ground<g ref="char:EOLhyphen"/>leſs Suggeſtions, and falſe Reports.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>We live in an Age that is ſo full of Calumnies, and falſe Reports, that the moſt quick ſighted of Men can ſcarce Diſcern the Difference between that which is Plain and Fair in the way of Dealing, and that which is Foul and Unjuſt; An Age wherein many Men live, who have no regard to their Neighbours Trade and Reputation, whenever they have a Proſpect of Advancing their own: An Age ſo wiſe in worldly Wiſdom, and eſpecially in making ſuch Cunning Reflections, that moſt People are apt to believe what they ſay, to be the real Truth, till the Injur'd Perſon has a fair opportunity, to juſtify his Integrity, and by ſetting matters in their true light, makes the falſehood of their odious Calumnies plainly appear, beyond Contradiction, and then all their <hi>Machiavilian Policy,</hi> and <hi>Subtil Artifices,</hi> are ſuddenly de<g ref="char:EOLhyphen"/>tected and expoſed to Contempt; But alas! how many innocent Perſons are there who lye under the Laſh of a Virulent and Scan<g ref="char:EOLhyphen"/>dalous Tongue, and are not able at leaſt for ſome time, to vindi<g ref="char:EOLhyphen"/>cate their own Reputation. The main Reaſon (as I take it) is, That their Enemies are ſo Sly and Falſe, that they never Diſcover themſelves to the injur'd Perſon but <hi>Judas</hi> like Crucify his Re<g ref="char:EOLhyphen"/>putation in his Abſence; Flattering him with ſmooth Words and a Trecherous Heart before his Face: So that ſuch Men may well be compar'd to the Venom of <hi>Aſps,</hi> to <hi>Juneper</hi>-Coals, and to <hi>Arrows;</hi> and indeed, they are worſe than all theſe: For there are Antidotes againſt the Venom of <hi>Aſps;</hi> but what can ſecure a Man from the S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of an Evil Tongue? Not even Innocency it ſelf: And <hi>Juneper</hi>-Coals, tho they be very hot burn none, but thoſe that touch them; whereas a ſpiteful Tongue hurts them that never Offended it: As for the <hi>Arrows,</hi> Diſtance of Place will preſerve one from them; but whereſoever a Man goes, the Malice of a lying Tongue will ſtill perſecute him: For ſuch Infernal Furies no ſooner open their foul Mouths to ſpeak, but the noiſom Stench of their corrupt Hearts burſt forth, infecting with their poiſonous
+<pb n="4" facs="tcp:29897:5"/>Breath, both the Air, and the Ears of the Hearers. To conclude, a Malicious Perſon is juſt like the Crooked <hi>Serpeut,</hi> that having his Head one way, can diſtort his Heart, to another.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>But to come to matter of Fact; There is a certain Combination of Men, and I have good reaſon to believe, that moſt of them go under the Denomination of <hi>Coal-Merchants,</hi> who according to their mutual Compact have united themſelves together, with a full Reſolution, to ruin my Trade and Reputation, and to perſwade the World, That it is <hi>a Cheat to be Juſt, and Juſt to Cheat;</hi> the falſehood of which Poſition will plainly appear by the following Diſcourſe, and I Doubt not but to Diſcover the Rancour of their Hearts, by their Falſe and Malicious Reports. I am alſo well ſatisfy'd, that there are very few Perſons of any Note within the Bills of Mortality, who can be ignorant of their Proceedings againſt me. Theſe Gentlemen have been pleaſed to give themſelves the trouble, to go from Houſe to Houſe; Caſting many ſiniſter Reflections on my Way of Dealing; and not only ſo, but have Encourag'd their Friends, Agents and Ser<g ref="char:EOLhyphen"/>vants to do the like, and have uſed their utmoſt Endeavours to Confirm their Villanous Practices by the method following.</p>
+            </div>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>IN the firſt Place they give it out, That I Cheat every Perſon I have any Dealings with, in their Meaſure of Coals, and to make their Aſſertion good, they confidently affirm, That they have twenty Indictments againſt me, and have already Convicted me for a Cheat, upon ſeveral of them, and particularly, that on the thir<g ref="char:EOLhyphen"/>teenth day of <hi>May,</hi> in the year of our Lord one thouſand and ſeven hundred, I was fin'd forty Pounds, for want of ſeven Buſhels of Coals in half a Chaldron: A Report ſo Notoriouſly falſe, that it muſt needs make their Names ſtink in the Noſtrels of all Men of ſound Reaſon; eſpecially when the firſt Riſe of it is Diſcover'd
+<pb n="5" facs="tcp:29897:5"/>to the World; which I ſhall endeavour to do, with all the Plainneſs Imaginable. Two Perſons whoſe Office it is, to ſee that every Man have his full Meaſure of Coals, took an occaſion, not long ſince, to give me a viſit, during which, their Demeanour was very agreeable, their Countenance Smiling, their Expreſſions Smooth and Diverting; wiſhing me much Happineſs and a good Trade; ſpeaking well of my Undertakings; declaring that Na<g ref="char:EOLhyphen"/>ture it ſelf had order'd every thing for my Conveniency; and ſetting forth, how beneficial the <hi>Coal-Trade</hi> would be to me, if I comply'd with their Demands: Whereupon I ask'd them what it was for, and how much they requir'd? One of them Reply'd, it was for Winking-mony, and that others gave them ten Shillings a Quarter, upon the ſame Account. My Anſwer was to this Effect, That I Deſign'd to give every Man his full due, and tho I might meet with many Obſtructions from them, and the Coal-Mer<g ref="char:EOLhyphen"/>chants, at my firſt Beginning; yet I doubted not, but in the End, it would Redoun'd to my Advantage, by giving the True Mea<g ref="char:EOLhyphen"/>ſure; for my Intention was not to make three, four, or five and twenty Chaldrons out of a Score. Thus theſe Induſtrious Offi<g ref="char:EOLhyphen"/>cers finding themſelves Diſappointed of their Quarterly Salary, in a few Days after, they watch'd one of my Carts with a Chaldron of Coals, and Meaſur'd them in <hi>Chiſwel</hi>-ſtreet, near <hi>Moor</hi>-fields, where I had ſold three Chaldrons of Coals which is the ſeventh part of a Score, full Pay, and in that Chaldron, which was the laſt of the three, there was half a Buſhel over and above four Fats of Coals; which they were forc'd to acknowledge upon their Oaths, at <hi>Guild</hi>-Hall, on the thirteenth Day of <hi>May,</hi> One thouſand and ſeven hun<g ref="char:EOLhyphen"/>dred However their Spite was ſo great, that they told the People of the Houſe, that there wanted three Buſhels and a half of Mea<g ref="char:EOLhyphen"/>ſure, and forewarn'd them to Pay me any Mony till they gave Orders: Afterwards, they went to <hi>Billinſgate,</hi> and raiſed a Crowd of Coal-Merchants about me, who call'd me Cheat; hoping thereby to impair my Credit in a Publick Market, and one of them offer'd to lay twenty Guinies, That that Chaldron of Coals, which was Meaſur'd in <hi>Chiſwel</hi>-ſtreet, by the two City Meaſur<g ref="char:EOLhyphen"/>erers, was not Meaſure, nor Water-Meaſure: Whereupon, I took the Gentleman at his Word, and laid them twenty G<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es, That
+<pb n="6" facs="tcp:29897:6"/>the ſame Chaldron of Coals, which was Meaſur'd in <hi>Chiſwel</hi>-ſtreet, was true Meaſure, and Water-Meaſure. However, in a few Hours after, they were ſick of their Wager, and employ'd many of their Friends, to make up the Matter: But I reply'd, I was oblig'd in ſeveral reſpects to Vindicate my Meaſure and Re<g ref="char:EOLhyphen"/>putation, and to Expoſe the Gentlemen, with their Winking-mony to the Publick View of the City and Suburbs, that the People many obſerve how finely they are Impoſed upon in theſe Affairs.</p>
+               <p>This Tryal I deſign (God willing) to bring on in <hi>Michael<g ref="char:EOLhyphen"/>mas</hi>-Term next enſuing <hi>Anno Dom.</hi> One thouſand and ſeven hundred, to prove that I fell Meaſure, and Water-Meaſure. In the mean while for the ſatisfaction of the Publick, I ſhall explain in a few Words, what is meant by the Water-Meaſure, which is ſo term'd for theſe three principal Reaſons: The firſt is, that every Fat and Buſhel, before it is Seal'd, or becomes a Law<g ref="char:EOLhyphen"/>ful Standard-Meaſure, is Meaſur'd and gag'd by Water; every Coal Fat Containing Sixty ſix Gallons of Water, and every Coal-Buſhel, Eight Gallons and one Quart of Water, neither more nor leſs. So that a Fat ought to Contain Nine Buſhels, as you may read, in the Act of Parliament, for the five Shillings Duty on every Chaldron of Coals; and every Chaldron of Coals to Con<g ref="char:EOLhyphen"/>tain Thirty ſix Buſhels; for a Fat is the fourth Part of a Chaldron. The Second reaſon is this, that the Coal-Fats and Buſhels, are larger than thoſe that are uſed in the Meaſuring of Grain: So that this is generally call'd Water-Meaſure, to Diſtinguiſh it from Water, and it is always uſed on the Water: So that I think every Perſon will, and of neceſſity muſt acknowledge, that the moſt proper Name that can be given it, is Water-Meaſure; if they will allow it any Name at all. As for Inſtance, is there not the ſame reaſon to impoſe that Name upon it, as to call a Man by his Chriſtian Name, or to call a Houſe or a Street, by the Name of the Founder of it; more eſpecially, Conſidering, that this Meaſure has been known by that Name, time out of mind, and
+<pb n="7" facs="tcp:29897:6"/>by the Coal-Merchants themſelves; nay, they never uſe to call it by any other Name. But ſince they perceive, I am Reſolv'd for a Tryal, they come in with a nonſenſical Sham, much like the three-Penny Indictment, and tell you, that Water-Meaſure is full Pay; that is to ſay, the Chaldron of Coals that is given into the Score, and which is commonly call'd the <hi>Ingrain.</hi> Now to Ex<g ref="char:EOLhyphen"/>poſe their Wiſdom to the View of every Reaſonable Perſon, I ſhall Confute them in their own Words. If one Chaldron be Water-Meaſure, is not the twentieth Chaldron the ſame, as long as they are all Meaſur'd by the ſame Fat? The Parliament makes no Difference between that Chaldron and any other, but only Declares, That every Chaldron of Coals which Contains thirty ſix Buſhels, ſhall pay eight Pence Meetridge, and five Shillings to the King. For example, ſuppoſe the Maſter of a Ship is Diſpoſed to give two or three Chaldrons into a Score, does that alter the Property of the Meaſure, or give the Meaſure its Name? But to come cloſer to the Matter, and to Confute their own Writings; he that is their Petty King has Printed a Book call'd the <hi>Coal-Dealers Companion,</hi> and there is not one of the whole Tribe, but follows the Rule of this Book in all Reſpects; which I muſt own is very uſeful, and the Scope of it is pertinent to my preſent purpoſe: For the Author tells you, that fourteen Chal<g ref="char:EOLhyphen"/>drons of Coals make two third Parts of a Score, full Pay; which they themſelves acknowledge to be Water-Meaſure, as they call it; as alſo, that ſeven Chaldrons are one Third of a Score; five Chaldrons and a Fat, the fourth Part of a Score; three Chaldrons and two Fats, the ſixth Part of a Score; and one Chal<g ref="char:EOLhyphen"/>dron and three Fats, the twelfth Part of a Score. Then they muſt unavoidably grant, that the three Chaldrons of Coals which I Sold and Deliver'd in <hi>Chiſwel</hi>-ſtreet, were the ſeventh Part of a Score, and that the ſingle Chaldron which they have Laid their twenty Guinies upon, is the One and twentieth Part of a Score; which is Water-Meaſure, according to their own Confeſſion.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="8" facs="tcp:29897:7"/>
+               <head>II.</head>
+               <p>Theſe acute Gentlemen are pleas'd to tell you, that no Maſter of any Ship will deliver his Coals at my Wharf twice, by reaſon there is ſo much Danger, in the badneſs of the Ground, where they lie to Unload. This is ſo Notorious an Untruth, that few Words are needful in the Anſwering of it: For in the ſhort time that I have Deliver'd Coals without the uſe of Lighters, or Porters Backing them, I have had Ships Deliver'd at my Wharf, four ſeveral times; with a deſire to come to the ſame Place the next Voyage; there being no better Ground, for that purpoſe, in the River of <hi>Thames;</hi> which any Perſon may be ſatisfied in, with the viewing of it. For it has been Ship Carpenters Ways for ma<g ref="char:EOLhyphen"/>ny Years and Ships of great value come on thoſe Ways upon other Occaſions; and they never, as yet, receiv'd any Damage in the leaſt: However, I could relate many ſad Accidenas that have happen'd to ſeveral Veſſels, when they have layn from the Shore in the River.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>They affirm, That I give more for my Coals, than they; by Reaſon of the Trouble there is in the bringing Veſſels a ſhore. This looks ſo much like a Drowning Man's Catching hold of every Straw, that I cannot but Condole the Weakneſs of their Arguments: For can it be reaſonably ſuppos'd, That any Maſter of a Ship, when he lies within ſight of the Wharf, (as all Ships of five, ſix and ſeven Score of Coals do) can have much trou<g ref="char:EOLhyphen"/>ble in weighing his Anchor, and faſtening a Rope a ſhore to bring the Veſſel in: Which is Compleated in the ſpace of an Hour, without any Charge in the leaſt; more eſpecially Conſi<g ref="char:EOLhyphen"/>dering that I always Buy the whole Freight together, and give them a quick Diſpatch?</p>
+               <p>As for inſtance, I have gone on Board a Ship of eighty eight Chaldrons of Coals in the Morning, and agreed for them. Then I having caus'd the Veſſel be brought to my Wharf, and the En<g ref="char:EOLhyphen"/>gine
+<pb n="9" facs="tcp:29897:7"/>to be fix'd, I have deliver'd the eighty eight Chaldrons into my Yard, taking the Engine away; paid the Maſter, ſo that the Ship has put off again to the ſame Place where ſhe lay before; and done all in the ſpace of twelve Hours, without the leaſt Charge to the Maſter, who declar'd, It would be much more ex<g ref="char:EOLhyphen"/>pedient for his Owners and himſelf, to ſell their Coals, ſix-Pence in a Chaldron cheaper to me; than to be at the trouble and Charge of going to <hi>Billinſgate,</hi> where they are oblig'd to wait two or three Days, till the Price is Fixt, and then to ſell twenty Chaldrons to one, ten to another, and five to a third Perſon, and ſometimes a ſmaller Quantity; and at laſt, to take a great deal of pains in Collecting the Mony, at ſo many ſeveral Places: Nay, tho the Coals are ſold all at a ſet Price, and Lighters on board; nevertheleſs, if they happen to fall, the Maſter muſt look out for a new Cuſto<g ref="char:EOLhyphen"/>mer: But if they be upon a Riſing Market; he muſt ſtand to his Bargain, or be threatned with a Law-ſuit: And often times, when the Coals are very good for the moſt Part, yet if they chance to Riſe Small, for five or ſix Chaldrons together, the Buyers give them an ill Name, and Drop the Ship, till the Maſter is forc'd to abate of the Price which he had really Sold them for. I firmly believe, There is ſcarce any Maſter, who Trades to <hi>Newcaſtle,</hi> but knows this to be too true, by his own Experience, ſome time or another.</p>
+               <p>Moreover, if any Perſons will give themſelves the trouble, I will make it appear, by the Maſters Receipts, That I have fre<g ref="char:EOLhyphen"/>quently bought my Coals a Groat, and Six-pence in a Chaldron cheaper than the Market-price; conſidering the goodneſs of the Coals: And I do ſolemnly proteſt, I never gave a bove the Mar<g ref="char:EOLhyphen"/>ket-price; excepting the firſt Ship that I deliver'd, which was Three-pence in the Chaldron; by reaſon, I could not promiſe the Maſter when I could Diſcharge him, for it was to try the Experi<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>They give it out, That I cannot deliver above twenty Chal<g ref="char:EOLhyphen"/>drons in a Day. One would be apt to believe, That theſe Gen<g ref="char:EOLhyphen"/>tlemen
+<pb n="10" facs="tcp:29897:8"/>have laid a great Wager amongſt themſelves, who ſhould tell the unlikelieſt Story: When at the ſame time, they know, that I can, and have Deliver'd ten Chaldrons of Coals in the ſpace of an Hour, for eleven or twelve Hours together; and will En<g ref="char:EOLhyphen"/>gage my ſelf under any Penalty, to Deliver One hundred and twenty Chaldrons between Sun and Sun.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>They inſinuate, That the Engine I Deliver theſe Coals by, is only a Cart with two Wheels. Now to ſhew the vanity of this, as well as of all the reſt of their falſe Reports; I ſhall here give a particular Deſcription of my Engine, with the Method of uſing it. At firſt I lower'd my Wharf about two Foot, and Planck't it the whole breadth: Then I cauſed two Rows of Planks of One hundred and ſixty Foot in Length to be laid, as alſo a Ground-Plot in the River, about ſixteen or eighteen Foot from the Wharf, with two Mortiſes and four Iron-loops: Now there are two upright Pieces about ten Foot high, two Tenons, four Iron-hooks, four Plates of Iron full of Holes, with two Iron-pins and Chains, and theſe are fixt in the aforeſaid Plate: There is alſo a Croſs-beam with two Mortiſes bound round with two Iron-Plates, and theſe Mortiſes are put into the upright Pieces with two Braces: To theſe are added four ſmall Beams eighteen Foot in length, with Irons and Large Mortiſes at one end; which are put over the Croſs-beam, and the other end is Pinn'd to the Wharf: Then they are cover'd like a Plat-form, and fenc'd with Rails on each ſide; but it ought to be obſerv'd, That the whole Frame may be Raiſed higher or lower, as Occaſion requires. Beſides this, there is ano<g ref="char:EOLhyphen"/>ther Platform of the nature of a Bridge, twenty two Foot long, and ſix Foot broad; with Rails on each ſide, and three great Chains at one end: Theſe Chains are hung to the Ship, and in the other end, lye on the Croſs-beam above deſcrib'd, ſo that this Fabrick is in Motion with the Ship or Veſſel; for as ſhe riſes and falls, comes nearer to the Wharf, or goes farther into the River, or goes a Head or a Stern, it is in a continual Motion as the Veſſel it ſelf, without any manner of trouble. For ſometimes
+<pb n="11" facs="tcp:29897:8"/>the Ship is within ten, fifteen, or twenty Foot of the Wharf, at o<g ref="char:EOLhyphen"/>ther times as far again; and yet the Work is not hindred. Laſtly, there are two Boxes running on Coach-wheels, which hold a Fat of Coals each, and ſerve to convey them from the Ship into the Yard: To conclude, every thing is ſo order'd, that the whole Engine may be remov'd in the ſpace of a quarter of an Hour, and this is a true Deſcription of it in every Particular, which any Perſon may ſee for further ſatisfaction.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>Theſe Gentlemen avouch, That they give as good Meaſure as I, which Aſſertion is ſo Notoriouſly untrue, that it ſcarce Deſerves the trouble of Anſwering: For none can be Ignorant of their Making three, four, or five and twenty Chaldrons of Coals out of a Score; as may appear to every Man's natural Reaſon. For Example, when Coals are at twenty Shilling <hi>per</hi> Chaldron in the Pool, they un<g ref="char:EOLhyphen"/>dertake to ſend them in at three and twenty Shillings a Chaldron; and ſo let them be at what Price they will, they'll Deliver them into your Houſes, for three Shillings a Chaldron beſides the Prime Coſt of the Coals. If theſe Gentlemen are ſo very honeſt as they pretend, they muſt needs have the Philoſophers ſtone to turn Coals into Silver: For can it be believ'd, that they can live on the Air? Since moſt of them pay Sixty, Seventy, Eighty, or a Hundred pounds a Year Rent, and keep one or two Clerks; allow<g ref="char:EOLhyphen"/>ing them forty, or fifty pounds a Year each, beſides all Expences, which are very conſiderable. Neither can it be ſuppoſed, That they keep their Houſes with all Conveniences, for leſs than One hundred pounds <hi>per Annum;</hi> beſides their own Publick and Pri<g ref="char:EOLhyphen"/>vate Expences: And if they are Men of any conſiderable Buſineſs in the World, what by the loſs of Horſes, and bad Debts; they muſt needs ſuſtain very great Damages: For ſome of them have free<g ref="char:EOLunhyphen"/>ly own'd to me, they have loſt One hundred pounds in ſome Years by Horſes, with One hundred and fifty pounds a Year in bad Debts; nevertheleſs theſe Men live, and get good Eſtates, and are willing to Paſs off the Stage for honeſt Dealers: Beſides all this Charge I have ſumm'd up out of their three Shillings in a
+<pb n="12" facs="tcp:29897:9"/>Chaldron, there are many more Expences to be defray'd out of it; <hi>viz.</hi> eight Pence <hi>per</hi> Chaldron for Meetridge, nine Pence <hi>per</hi> Chaldron Lighterage, (nay ſome give twelve Pence) and ſix Pence to the Porters that load the Carts: If they hire Carts, they muſt give two Shillings, or two Shillings and ſix Pence <hi>per</hi> Chal<g ref="char:EOLhyphen"/>dron for the Carriage of them, and if they keep Teams of their own, what with the Charge of maintaining Horſes and paying the Farrier, Collar-maker, Wheel-wright, and the Carman's Wa<g ref="char:EOLhyphen"/>ges, with their being often out of work, they cannot be at leſs Expence than is above ſpecify'd.</p>
+               <p>After all this, they make a great Noiſe about the largeneſs of their Meaſure, which is ſo palpable a Contradiction, that I Chal<g ref="char:EOLhyphen"/>lenge the whole Combination, to make it appear to the World, by Reaſon, and one good Argument, That they do, or ever did give every Man his full Meaſure, for three Shillings, beſides the Prime Coſt of the Coals, and the Advantage of one Chaldron in twenty, which makes four Shillings. Upon the whole, if they cannot make it out, then all People may plainly ſee where the Cheat is, and how they have been ſo long Impoſed upon in the Meaſure of their Coals.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>To touch our juſt Dealers to the Quick; they are all ſenſible, that the main Reaſon of Caſting ſo many Reflections on me, is this: Becauſe I deliver my Coals, without the uſe of Lighters, or Porters backing them, and give every Man his full due; which is ſo great a Contravention to their Way of Dealing, that they are afraid of being Intercepted in their former Method: So that they Judg'd it the Higheſt Pitch of Wiſdom, to Cry out Cheat firſt; juſt like common Shop-lifts, Cry out, <hi>Stop Thief;</hi> hoping by that means to make their Eſcape: So theſe Gentlemen would fain have perſwaded the World, That all the ſiniſter Tricks and Cheats in the Coal-trade were Acted at no other Place, but at <hi>Execution-Dock:</hi> And yet none of theſe Men can produce any one ſingle Inſtance, that any one Chaldron, or Load of Coals
+<pb n="13" facs="tcp:29897:9"/>went out of my Yard, leſs than full Meaſure, ever ſince I kept a Wharf, with the Ingrain when ever I agreed for it: On the contrary, I always allow'd the ſame Meaſure that I receiv'd my ſelf from on board the Fleet.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>The Combiners perceiving, that all their Attempts hither to prov'd fruitleſs, thought fit to call a General Council to Conſult what was fit further to be done in the Matter, and after a great Debate, during which many Things were propoſed; at laſt, they came to a Reſolution. For having intelligence, That I was in a great hurry of Buſineſs, and was Oblig'd to employ a poor Man to drive one of the Carts, who was not uſed to the Meaſuring of Coals; they doubted not, but by this Opportunity to compaſs their unjuſt Deſigns. At laſt a Farrier near <hi>Biſhopſgate,</hi> was Pitcht upon, as the Vanguard for this glorious Atchievment: He Receives his Commiſſion, with a wiſh of good Succeſs, and his Orders were as follows, <hi>viz.</hi> to go to the Wharf at the <hi>Hermetage</hi>-Bridge, and to beſpeak a Load of Coals to be brought to the Farrier's Houſe, about twelve or one a Clock. They being ac<g ref="char:EOLhyphen"/>quainted with the Deſign, muſter up a ſet of Large Sacks, which I really believe, had not ſeen the Sun, for ſeveral Months; at the ſame time giving the Men a ſtrict Charge to Sack them up, with all the might imaginable: This done, they ſend them to the Far<g ref="char:EOLhyphen"/>rier's Houſe; where <hi>G</hi>-'s Son-in-Law, who Meaſur'd my Coals in <hi>Chiſwell</hi>-ſtreet, and one of them that was Diſappointed of the Winking-mony, came and Meaſur'd his Father's Coals in an open Yard, in the preſence of many People; and they hold out good Meaſure, rather over than under. Then the Farrier came mounted on the Back of one of his Patients, to my Wharf, with a great many Entreaties, that I would not fail to ſend a Load of Coals to his Houſe, preciſely by two a Clock. I gave Orders for the Meaſuring of them, and ſent them accord<g ref="char:EOLhyphen"/>ingly, by the aforſaid Porter. They were no ſooner brought, but Mr. <hi>G.</hi>'s Son-in-Law who gave his Attendance, order'd the Porter to ſhoot them on the Pavement: This done, he Com<g ref="char:EOLhyphen"/>mands
+<pb n="14" facs="tcp:29897:10"/>him to fill every Buſhel, and when the ſame Porter had laid on as many as he could; he took the Shovel, and heap'd up as many more, on every Buſhel, as he poſſibly could; hoping by that means, that there might have wanted two or three Bu<g ref="char:EOLhyphen"/>ſhels: But in the Concluſion of the Matter, after the Meaſuring of the Coals in my Yard; notwithſtanding the Jolting of them in the Cart, and what might drop out of the Sacks by the way, or be loſt in Shooting them on the Pavement, and the Mea<g ref="char:EOLhyphen"/>ſuring of them, after ſuch a manner as they did; there wanted but a poor Peck and a half of Coals, which at moſt, cannot be Computed at above three Pence. This Accident put the whole Council to a Non-plus, and another Council was ſoon call'd; wherein great Diſputes Aroſe: Some were of the Opinion, that if they made any Words about it, it might tend more to their diſadvantage, and therefore thought it more adviſable to wait for a fairer Opportunity. However, in general they Concluded, That ſomewhat ought to be attempted, now or never; judging it requiſite to give it out, That there wanted ſix or ſeven Buſhels, and that I was one of the greateſt Cheats in the World. To colour the Matter, they gave me a Summons to appear before my Lord Mayor; which I did accordingly: Whereupon the Farrier and <hi>G</hi>-'s Son-in-Law gave their Oaths, That there wanted a Peck and half. My Lord Reply'd, That Coals would waſte in the Mea<g ref="char:EOLhyphen"/>ſuring, and there might be ſome Spilt out of the Sacks by the Way. This prudent Anſwer could not Appeaſe their Wrath, but they would needs have me bound over to the next Seſſions, ſo that in leſs than the ſpace of forty eight Hours, the News was ſpread abroad throughout the greateſt Part of the City and Suburbs, That they had twenty Indictments againſt me, and they would not be in my Condition, for a hundred Pounds. Thus being oblig'd to vindicate my Reputation, after to many invidious Reflections, and ſcandulous Aſperſions had been caſt upon me; I reſolv'd to joyn Iſſue with them, and to ſtand the Tryal; which came on accordingly on the thirteenth Day of <hi>May,</hi> One thouſand and ſeven hundred.</p>
+            </div>
+         </div>
+         <div type="legal_transcript">
+            <pb n="15" facs="tcp:29897:10"/>
+            <head>The Subſtance of the Tryal was as follows, being carefully taken in Short-hand.</head>
+            <p>
+               <hi>THE King's Counſel,</hi> My Lord, I am of Counſel for the King in this Cauſe; this Perſon <hi>Charles Povey</hi> ſtands In<g ref="char:EOLhyphen"/>dicted for ſelling a Load of Coals leſs than Meaſure, and we ſhall prove to you, that in a Load of Coals, there was a Peck and a half leſs than Meaſure, and to prove it we will call our Witneſſes.</p>
+            <stage>Witneſſes Sworn.</stage>
+            <sp>
+               <speaker>Mr. <hi>Sergeant,</hi>
+               </speaker>
+               <p>Pray give an Account, what you know of Coals that Mr. <hi>Povey</hi> ſold you.</p>
+            </sp>
+            <sp>
+               <speaker>Witneſs,</speaker>
+               <p>He ſold me a Load of Coals, and there wanted a Peck and half of Meaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>C.</hi>
+               </speaker>
+               <p>Who Meaſur'd them?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>This Man.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>D.</hi>
+               </speaker>
+               <p>Mr. <hi>Povey</hi>'s Counſel, Did you buy any Coals of him ever before?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>No.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>C.</hi>
+               </speaker>
+               <p>Did you Meaſure theſe Coals?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>C.</hi>
+               </speaker>
+               <p>You are one of the Sworn Meaſurers, are you not?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>C.</hi>
+               </speaker>
+               <p>How much did there want of Meaſure?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>There wanted a Peck and half.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>R.</hi>
+               </speaker>
+               <p>Did you Meaſure the Coals out of the Sacks?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>No Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Queſtion,</speaker>
+               <p>How did you Meaſure them?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>We had a Buſhel, and a Man with us; and we threw them down in an heap, and Meaſur'd them, and there wanted a Peck and half.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>D.</hi>
+               </speaker>
+               <p>Have you not watch'd Mr. <hi>Povey</hi>'s Coals before now?</p>
+            </sp>
+            <pb n="16" facs="tcp:29897:11"/>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Did you not Meaſure them, at one Mr. <hi>Clayton</hi>'s in <hi>Chiſ<g ref="char:EOLhyphen"/>wet</hi> ſtreet?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>How did they hold out there?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Half a Baſhel more than Meaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Did you ever Meaſure any Coals of Mr. <hi>Povey</hi>'s at any other Place, that there wanted Meaſure?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>No.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>D.</hi>
+               </speaker>
+               <p>No Indictment of this Nature has been preferr'd here before, nor ought to be preferr'd upon the Reading of Mr. <hi>Povey</hi>'s Paper, for the felling of Coals; which is the true reaſon of this Proſecution; becauſe Mr. <hi>Povey</hi> was not bred a Coal-Merchant: But in that Place, he may Lawfully follow that Trade, and he having been Induſtrious, has found out a Way, whereby he can aſſord to make better Meaſure than others can do, and does ſo; as appears by what the Evidence ſays: For at Mr. <hi>Clayton</hi>'s they held out half a Buſhel above the true Meaſure. Now Gentle<g ref="char:EOLhyphen"/>men, as to what is pretended in this Caſe, the want of Meaſure, there is but a Peck and half in a Load; which is very inconſider<g ref="char:EOLhyphen"/>able, and ſuch a quantity may eaſily be loſt in Carrying from Mr. <hi>Povey</hi>'s to that Man's Houſe in <hi>Biſhopſgate</hi>-ſtreet; no doubt but Coals will ſhed in Carrying.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>C.</hi>
+               </speaker>
+               <p>Not out of the Sacks.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>D.</hi>
+               </speaker>
+               <p>Some of them will, I hope the Jury will obſerve, That Coals will ſhake out, and if you Shoot them on the Ground, and Meaſure them afterwards, they will not hold full Meaſure: Now if there be ſuch an inconſiderable Difference, no one can believe, there was any Deſign to Cheat; but that ſo ſmall a quan<g ref="char:EOLhyphen"/>tity might be loſt in Carrying, and ſcatter'd upon the Ground, after they were thrown out of the Sacks. But Sir, We ſhall prove to you by the Buſhel which we have here, That there Coals were fairly Meaſur'd by a Buſhel, which agrees with the Standard: We will prove to you, That this was his Order to his Servants con<g ref="char:EOLhyphen"/>ſtantly, to give good Meaſure: And if he did that, if his Servants did at any time by miſtake, do that which was contrary to his Order; the Maſter cannot help that. But indeed, this was a
+<pb n="17" facs="tcp:29897:11"/>Trick and they had a mind to try, if they could catch him faul<g ref="char:EOLhyphen"/>ty; and I am glad, they could do it in no greater a matter than in three Penny worth of Coals. He ſays, he has Meaſur'd them at other times, and then they were over-Meaſure: Some muſt be loſt in Shooting out, did not you demand ſome Winking mony of Mr. <hi>Povey?</hi> We think we ought not to pay you more than your due.</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Not ſo much as our due, as we have of other People.</p>
+            </sp>
+            <stage>John Lucas, Edward Oliver, <hi>and</hi> John Snow, <hi>call'd and Sworn.</hi>
+            </stage>
+            <sp>
+               <speaker>Mr. <hi>D.</hi>
+               </speaker>
+               <p>Do you live with Mr. <hi>Povey?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>D.</hi>
+               </speaker>
+               <p>Do you remember the Coals carry'd to that Man?</p>
+            </sp>
+            <sp>
+               <speaker>Wit. John Lucas,</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>D.</hi>
+               </speaker>
+               <p>Were they good Meaſure?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Did you ſee them Meaſur'd?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Where is the Buſhel they were Meaſur'd by?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>It is here.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Is it a Seal'd Buſhel?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>And for Coals?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes Sir, and we have no other.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Have you Meaſur'd it by the Standard?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>And is it full Meaſure by the Standard?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes it is.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Were the Coals Meaſur'd by that Buſhel?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes they were</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>And put into the Sacks ſo Meaſur'd?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes, and ſo ſent away.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>What Directions did your Maſter uſe to give to his Ser<g ref="char:EOLhyphen"/>vants?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>He always gave Directions for every one to have his full Meaſure.</p>
+            </sp>
+            <pb n="18" facs="tcp:29897:12"/>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>You have driven this Buſineſs a great while, have you not?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes I have a great while.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>M.</hi>
+               </speaker>
+               <p>Then, ſuppoſe a Load of Coals be Meaſur'd, and put into the Sacks, and Shot out upon the ground, will they hold their firſt Meaſure afterwards?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>No, they will not.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Why?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>There is loſs, in Carrying and Meaſuring.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>How in Meaſuring?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Some have not ſo much judgment as others have; ſome will Play the Knave, and ſome do not underſtand the Meaſuring of them.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Were theſe Coals Meaſur'd honeſtly?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes, upon my Oath, they were.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>M.</hi>
+               </speaker>
+               <p>Was Mr. <hi>Povey</hi> there, when they were Meaſur'd?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>No, but he was there before.</p>
+            </sp>
+            <stage>
+               <hi>Mr.</hi> Oliver <hi>call'd.</hi>
+            </stage>
+            <sp>
+               <speaker>Mr. <hi>M.</hi>
+               </speaker>
+               <p>Were you by, when the Coals were Meaſur'd?</p>
+            </sp>
+            <sp>
+               <speaker>M. <hi>Oliver,</hi>
+               </speaker>
+               <p>Yes I was.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>And were they fairly Meaſur'd?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Oliver,</hi>
+               </speaker>
+               <p>Yes, they were, upon my Oath.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>By the proper Buſhel?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Oliver,</hi>
+               </speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Have you try'd the Buſhel?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Oliver,</hi>
+               </speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Does it hold out full Meaſure?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Oliver,</hi>
+               </speaker>
+               <p>Yes, and theſe Coals were Meaſur'd by that Buſhel.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Were they ſent away, as they were Meaſur'd by that Buſhel?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Oliver,</hi>
+               </speaker>
+               <p>Yes Sir.</p>
+            </sp>
+            <stage>
+               <hi>Mr.</hi> Snow <hi>call'd.</hi>
+            </stage>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Were you by, when the Coals were Meaſur'd?</p>
+            </sp>
+            <pb n="19" facs="tcp:29897:12"/>
+            <sp>
+               <speaker>Mr. <hi>Snow,</hi>
+               </speaker>
+               <p>No Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt</speaker>
+               <p>Does your Maſter give Orders to make full Meaſure?</p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Snow.</hi>
+               </speaker>
+               <p>He always ſays, give them their full Due.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Does he always order you to fid the Buſhel?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Snow,</hi>
+               </speaker>
+               <p>Yes.</p>
+            </sp>
+            <stage>Mr. <hi>Davis</hi> a Sworn Meeter was Sworn.</stage>
+            <sp>
+               <speaker>Mr. <hi>M.</hi>
+               </speaker>
+               <p>Was Mr. <hi>Povey</hi>'s Buſhel a bigger Meaſure than the Standard?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>Yes Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>D.</hi>
+               </speaker>
+               <p>Mr. <hi>Davis,</hi> are you a Sworn Meeter?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Davis,</hi>
+               </speaker>
+               <p>Yes Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Have you Meaſur'd by Mr. <hi>Povey</hi>'s Buſhel?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Davis,</hi>
+               </speaker>
+               <p>Yes Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Is it a Lawful Buſhel?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Davis,</hi>
+               </speaker>
+               <p>No.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>Why?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Davis,</hi>
+               </speaker>
+               <p>It is rather too Large, it is Bigger than the Office-Buſhel.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>R.</hi>
+               </speaker>
+               <p>Was it as Big as the Standard?</p>
+            </sp>
+            <sp>
+               <speaker>Wit.</speaker>
+               <p>It was Bigger.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>D.</hi>
+               </speaker>
+               <p>They were full Meaſure when they went out of his Yard, and they were Meaſur'd by the ſame Buſhel.</p>
+            </sp>
+            <stage>
+               <hi>Mr.</hi> R—.</stage>
+            <p>Gentlemen of the Jury, Mr. <hi>Povey</hi> is Indicted, for ſelling of Coals leſs than Meaſure; the Evidence for the King Swears, That he bought a Load of Coals of him, being Invited by a Bill de<g ref="char:EOLhyphen"/>liver'd to him, whereby he promiſes to fell good Bargains; and has found out an Engine, whereby he can ſave Many; and can fell Coals two Shillings a Chaldron Cheaper than other Men can; and here-upon, he did buy a Load of Coals. And a Second Wit<g ref="char:EOLhyphen"/>neſs Swears, He ſhot them out of the Sacks, on the Ground and Meaſar'd them; and there wanted a Peck and half in that Load: If that be true, it is a Breach of the Law, and he will be found
+<pb n="20" facs="tcp:29897:13"/>guilty of the Indictment: But to Contradict this, he calls ſeve<g ref="char:EOLhyphen"/>ral Witneſſes; firſt his Servants that did Meaſure theſe Coals, and they Swear, They were full Meaſure, by that Buſhel which he uſes. There were three more that Swore, He always Meaſures by that Buſhel; for he has no other: Nay, one Swears, It can<g ref="char:EOLhyphen"/>not be a Lawful Meaſure, becauſe it is too Big: If it were big enough, it anſwers the Law; and if they did Examine it by the Standard, then that is the Queſtion, Whether, when they were Sold and Deliver'd at his Wharf; whether they were Lawful Meaſure or no? Not what they were, after they had been car<g ref="char:EOLhyphen"/>ry'd a Mile and half. Now as to this they ſay, when Coals are Shot on the Ground, they cannot gather them all up; there muſt be ſome Diminution and Loſs. But the Queſtion is, how they were when Deliver'd? They tell you, that in carrying ſo far, there will be ſome wanting: You are to Enquire, Whether it were Lawful Meaſure or no? If there did want a Peck and half in a Load, it was an Error; but on the othet ſide, you muſt not do him wrong, if it were Lawful Meaſure: If there were any Diminution, or Loſs afterwards, by any Accident, then it was not his Fault, but an Accident, then you muſt acquit him.</p>
+            <p>
+               <hi>Inſtead of acquiting me, the</hi> Jury <hi>brought me in guilty of the Indictment, and I was fin'd thirteen Shillings and four Pence.</hi>
+            </p>
+            <p>The Bench Declar'd, they had done me wrong.</p>
+         </div>
+         <div type="testimonies">
+            <div n="1" type="testimony">
+               <pb n="21" facs="tcp:29897:13"/>
+               <head>I.</head>
+               <p>
+                  <hi>CHarles Povey</hi> has made Oath before Sir <hi>Rich. Holford</hi> Maſter in <hi>Chancery,</hi> That ever ſince he kept a Wharf, and propoſed to give the full Meaſure; either Directly, or Indirectly, according to his Knowledge, Order, or Directions; he never ſent any leſs than four Fats of Coals for a Chaldron, out of his Tard; which four Fats of Coals are thirty ſix Buſhels, commonly call'd Water-Mea<g ref="char:EOLhyphen"/>ſure. And further, That he always gave Orders to his Men, to Act accordingly; and he further makes Oath, That he never will Directly, or Indirectly, by his Knowledge, Order, or Conſent, ever ſuffer a Chaldron of Coals to go out of his Tard, with leſs than the Meaſure aforeſaid: And the ſaid <hi>Charles Povey</hi> does declare, That he never uſed any other Buſhel than one; which Buſhel over-runs the Fat, by a Buſhel and half in a Chaldron, and is very near two Buſhels bigger than the Office-Buſhel; as it was try'd by two Sworn Meeters, <hi>Edward Foulk,</hi> and <hi>John Davis</hi> in <hi>Goodman</hi>'s Yard in the <hi>Minories,</hi> on the 8th day of <hi>May,</hi> One thouſand and ſeven Hundred, in the preſence of many People: And on the thir<g ref="char:EOLhyphen"/>teenth day of <hi>May,</hi> One thouſand and ſeven hundred, this Buſhel that he always Sold by, was Meaſur'd and gag'd by Water, at the <hi>Guild</hi>-Hall; and it held above a Quart of Water more than a Stan<g ref="char:EOLhyphen"/>dard-Buſhel ought to Contain.</p>
+               <closer>
+                  <signed>Charles Povey.</signed>
+                  <dateline>
+                     <date>
+                        <hi>Jurat. 17th</hi> July,</date> 
+                     <hi>1700 Coram me,</hi> Rich. Holford.</dateline>
+               </closer>
+            </div>
+            <div n="2" type="testimony">
+               <head>II.</head>
+               <p>
+                  <hi>JOhn Snow, Edward Oliver, Edward Griffeth,</hi> and <hi>John Lucas,</hi> makes Oath before Sr. <hi>Rich. Holford</hi> Maſter in <hi>Chancery,</hi> as fol<g ref="char:EOLhyphen"/>lows, <hi>viz.</hi> That they have ſerv'd Mr. <hi>Povey</hi> a conſiderable time, eſpecially. <hi>Edward Oliver</hi> and <hi>John Snow,</hi> almoſt ever ſince he kept a Wharf, as his Meaſurers and Servants: And that he always gave us Orders, to give every one his full Due; which he ever did to the beſt of our knowledge: And we all further make Oath, That we never
+<pb n="22" facs="tcp:29897:14"/>gave any one leſs than full Meaſure: And that all the Coals which Mr. <hi>Povey</hi> ever Sold out of the Yard, and ſince we come to him, were Meaſur'd by the Fat out of the Ship and ſo Deliver'd or elſe Mea<g ref="char:EOLhyphen"/>ſur'd by that Buſhel, which holds above a Quart of Water more than any Buſhel ought to contain; as was try'd at <hi>Guild</hi>-Hall, on the thirteenth Day of <hi>May,</hi> One thouſand and ſeven hundred, and is Bigger than the Office-Buſhel by two Buſhels of Coals in a Chaldron: Which was try'd in <hi>Goodman</hi>'s Yard in the <hi>Minories,</hi> on the eighth Day of <hi>May,</hi> One thouſand ſeven hundred, at the Sign of the Shears, by two Sworn Meeters, <hi>Edward Foulk</hi> and <hi>John Davis;</hi> where ma<g ref="char:EOLhyphen"/>ny People were preſent. <hi>John Snow</hi> further makes Oath, That the Officer, who Meaſur'd the Load of Coals at Mr. <hi>Clayton</hi>'s in <hi>Chiſwell</hi>-ſtreet, where there was half a Buſhel of Coals more than Meaſure; which he own'd upon his Oath a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Guild</hi>-Hall, on the thir<g ref="char:EOLhyphen"/>teenth Day of <hi>May,</hi> One thouſand and ſeven hundred, when he Swore the Indictment about the Peck and half of Coals: Told Mrs. <hi>Clay<g ref="char:EOLhyphen"/>ton,</hi> that there wanted three Buſhels and half of Meaſure. And the ſaid <hi>John Snow</hi> firmly believes That the main occaſion of his caſting ſuch Reflections on Mr. <hi>Povey</hi> and his Meaſure, was, that he was diſappointed of his Winking mony, or his Quarterly Salary. <hi>Edward Oliver</hi> and <hi>John Lucas</hi> makes Oath That that Load of Coals which Mr. <hi>Povey</hi> was Indicted for, as a Cheat, was Meaſur'd and Deliver'd out of the Yard, without any Fraud or Deceit, in any Reſpect whatſoever.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>John Snow.</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Oliver.</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Griffeth.</hi>
+                        </item>
+                        <item>
+                           <hi>John Lucas.</hi>
+                        </item>
+                     </list>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>Jurat. 17th</hi> July,</date> 
+                     <hi>1700, Coram me,</hi> Rich. Holford.</dateline>
+               </closer>
+            </div>
+            <div n="3" type="testimony">
+               <head>III.</head>
+               <p>
+                  <hi>WIlliam Eſſington</hi> Citizen, makes Oath before Sir <hi>Rich. Holford</hi> Maſter in <hi>Chancery,</hi> That he with ſome others, were at the <hi>White-Lion</hi> Tavern in St. <hi>John's Wapping,</hi> on the 26th Day of <hi>June</hi> One thouſand and ſeven hundred, with two of my Lord Mayor's Officers, that Indicted Mr. <hi>Povey,</hi> where one of them declar'd in Company, that if Mr. <hi>Povey,</hi> had given them Winking-mony,
+<pb n="23" facs="tcp:29897:14"/>the Tryal about the Peck and half of Coals had never been: And he further makes Oath, That he ſaw one of them take Mony on the ſame Account, according to his own Confeſſion when he Re<g ref="char:EOLhyphen"/>ceiv'd it.</p>
+               <closer>
+                  <signed>Will. Eſſington.</signed>
+                  <dateline>
+                     <date>
+                        <hi>Jurat. 17th</hi> July,</date> 
+                     <hi>1700, Coram me,</hi> Rich. Holford.</dateline>
+               </closer>
+            </div>
+            <div n="4" type="testimony">
+               <head>IV.</head>
+               <p>
+                  <hi>N. T.</hi> Druggiſt, and <hi>R. Brown</hi> Builder, makes Oath before Sr. <hi>R. Holford</hi> Maſter in <hi>Chancery,</hi> That they went on Board a Ship, ſaw a Chaldron of Coals fairly Meaſur'd by a Sworn Meeter into the Fat, the eighth Day of <hi>May,</hi> One thouſand and Seven hundred; be<g ref="char:EOLhyphen"/>ſides part of four Shovels full of Coals that the Meeter gave over and above. Theſe Coals were put out of the Fat into a clean Ligh<g ref="char:EOLhyphen"/>ter, and brought a-ſhore, and put into Sacks, and Loaded into a Cart, and carry'd into <hi>Goodman</hi>'s Yard in the <hi>Minories,</hi> at the Sign of the Shears: Where two Sworn Meeters came and Meaſur'd this Chaldron of Coals, by Mr. <hi>Povey</hi>'s Buſhel, and there were no more than thirty four Buſhels and a half by his Buſhel. Then they Meaſur'd them over again, by another Buſhel, which they declar'd to be the Buſhel belonging to the Meeters-Office; and by that Buſhel, there were thirty ſix Buſhels and better: So that Mr. <hi>Povey</hi>'s Buſh<g ref="char:EOLhyphen"/>el, which he and his Men declar'd they always Meaſur'd by, ever ſince he kept a Wharf, was bigger than the Fat, by one Buſhel and half of Coals; and near two Buſhels better than the Office-Buſhel. And we make Oath, That we never left the Coals, from the time of their being Meaſur'd on Board, till they were Meaſur'd on Shore. And to the beſt of our apprehenſions, there was no Fraud or Deceit uſed in the Meaſuring of them. The next Day being the ninth of <hi>May,</hi> we ſaw a Load of Coals fairly Meaſur'd by Mr <hi>Povey</hi>'s Buſhel, in his Yard put into Sacks, Loaded into the Cart, and carry'd about a Quarter of a Mile; then brought back again, and Shot on a clean Floor, and Meaſur'd again, by the ſame Man a ſecond time, and ra<g ref="char:EOLhyphen"/>ther lighter Meaſure than before; and there wanted half a Peck and better. Then we ſaw them Meaſur'd over again a third time,
+<pb n="24" facs="tcp:29897:15"/>a little heavier than before, and there wanted half a Buſhel, and half a Peck. So that we do firmly believe, That a Load of Coals may be ſent out very good Meaſure, and not a Coal loſt, nor waſted by the Way; and yet there may want a Peck and half of Coals, or more, by the Meaſuring of them again, a little heavier than ordi<g ref="char:EOLhyphen"/>nary.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>N. T.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Brown.</hi>
+                        </item>
+                     </list>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>Jurat. 17th</hi> July,</date> 
+                     <hi>1700, Coram me,</hi> Rich. Holford.</dateline>
+               </closer>
+            </div>
+            <div n="5" type="testimony">
+               <head>V.</head>
+               <p>
+                  <hi>JOhn Davis</hi> Sworn Meeter makes Oath, before Sr. <hi>Rich. Holford</hi> Maſter in <hi>Chancery,</hi> That he and one <hi>Edward Foulks</hi> another Sworn Meeter, Meaſured a Chaldron of Coals in <hi>Goodman</hi>'s Yard, in the <hi>Minories,</hi> at the Sign of the Shears, on the eighth Day of <hi>May,</hi> One thouſand and ſeven hundred with Mr. <hi>Povey</hi>'s Buſhel, and there wanted one Buſhel and half of a Chaldron by his Buſhel: And then we Meaſur'd them again by the Office Buſhel, and there was a compleat Chaldron of Coals, and better: So that I do declare, That Mr. <hi>Povey</hi>'s Buſhel is too large, and that it holds above a Quart of Water, more than the Standard.</p>
+               <closer>
+                  <signed>John Davis.</signed>
+                  <dateline>
+                     <date>
+                        <hi>Omnia Jurat. 17th</hi> July,</date> 
+                     <hi>1700, Coram me,</hi> Rich. Holford.</dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="25" facs="tcp:29897:15"/>
+            <p>NOw to make it appear beyond Contradiction, That there are no grounds in the leaſt, to raiſe ſuch Scandalous, Falſe and Malicious Reports, but what proceeded from the Ill nature of a Spiteful and Envious Combination of Men; I do hereby de<g ref="char:EOLhyphen"/>clare to the World, That it any two of theſe Gentlemen, who have given occaſion to theſe baſe and unmanlike Reflections on me, or any two Perſons whatſoever of Credit and Reputation: Nay, I will accept of that very Perſon, who Swore againſt me at <hi>Guild</hi>-Hall, on the thirteenth Day of <hi>May,</hi> one Thouſand and ſeven Hundred, about the Three penny worth of Coals, and has deviſed ſo many notorious Untruths concerning me, to be one of the two: I ſay, if they will make Oath before a Maſter in Chan<g ref="char:EOLhyphen"/>cery, as my Witneſſes and I have done; with reſpect to any one of the following Articles, they ſhall receive of me for their Oaths ſo made, fourty Pounds of good and Lawful Mony of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> And I will own it to be as due a Debt, as if I had given a Bill or Bond for the Payment of it, <hi>viz.</hi>
+            </p>
+            <p n="1">I. That I never had any one Ship deliver'd at my Wharf, four ſeveral times; in regard it has been ſo ſlily reported for a real Truth, That never any Ship would deliver there twice.</p>
+            <p n="2">II. That I never did deliver into my Yard in one Day, Eigh<g ref="char:EOLhyphen"/>ty eight Chaldrons of Coals, without the uſe of Lighters, or Porters backing them; ſince it has been confidently affirm'd to many People, That I could not deliver twenty Chaldrons in a Day.</p>
+            <p n="3">III. That there ever were any more Indictments preferr'd againſt me, ſince I kept a Wharf, than that about the Peck and half of Coals; altho a malicious Report was ſpread abroad, at that time, on purpoſe to make me odious in the ſight of all Men, That there were twenty Indictments againſt me for a Cheat, and that I was fin'd fourty Pounds on the thirteenth Day of <hi>May,</hi> one Thouſand and ſeven Hundred.</p>
+            <pb n="26" facs="tcp:29897:16"/>
+            <p>IV. That I never allow'd the Ingrain; it being given out, that I never did.</p>
+            <p>V. That I ever Sold by any other Buſhel; ſince I kept a Wharf, to this Day, <hi>July</hi> the 17th one Thouſand and ſeven Hundred, but with that Buſhel which holds a Quart of Water more than it ought to contain: And that it did not over-run the Fat, by a Buſhel and half of Coals in a Chaldron, when it was try'd in <hi>Goodman</hi>'s Yard, in the <hi>Minories,</hi> by two Sworn Meeters, on the eighth Day of <hi>May,</hi> one Thouſand and ſeven Hundred; notwithſtanding that ſome Perſons, would fain have perſwaded the Publick, as well as Mrs. <hi>Clayton</hi> in <hi>Chiſwel</hi>-ſtreet, that it wanted three Buſhels and half of Meaſure in a Chaldron.</p>
+            <p>VI. That there ever went out of my Yard, by my Knowledg, Direction, Order, or Conſent, ſince I have propoſed to give the Water-Meaſure, leſs than four Fats of Coals to every Chaldron.</p>
+            <p>If they will Swear to any one of theſe ſix Particulars, they ſhall certainly Recover the fourty Pounds aforeſaid. I ſhall only deſire them as ſoon as they have made their <hi>Affidavits,</hi> to Publiſh their Names with the reſpective Places of their Abbde, in the <hi>Gazette,</hi> and then they will acquit themſelves like honeſt Men; and the Publick will believe, That all that has been ſaid of me, is matter of Fact: But let them Swear the Truth and ſhame the Devil, or elſe I'll prove the Truth, and put them to ſhame, in the Pillory, before the Royal Exchange in <hi>Cornhill.</hi>
+            </p>
+            <p>Moreover, theſe worthy Gentlemen are pleaſed to give it out, That the <hi>Advertiſement,</hi> I publiſh'd concerning my Method of Dealing, is full of Lyes, and that there is not one Word in it, but what Contradicts another. Surely theſe Perſons have been at School in the lower Regions, to learn of Satan himſelf, how they may perſwade Men out of their Senſes and Natural Reaſon. To prove matter of Fact on them, in this repect, my Advertiſe<g ref="char:EOLhyphen"/>ment is as follows.</p>
+            <p>AT Charles Povey's <hi>Wharf near Execution-Dock in</hi> Wapping, <hi>all ſorts of Paggets, Billets, Bavius, and the beſt Sea-Coals are to be Sold: Where all Perſons may have the ſame Meaſure of Coals, that is uſually Meaſur'd on board the Fleet, and at the ſame
+<pb n="27" facs="tcp:29897:16"/>Pelee, as in the Peel; the Fleet lying ſo near the ſaid Wharf, that he has the Privelege of Chooſing ſuch Cools, as will give all People ſatisfaction; freeing them at the ſame time from the Charge of Lighters, and the Inconveniency of waiting for Tides.</hi>
+            </p>
+            <p>
+               <hi>The ſaid</hi> Charles Povey <hi>has lately Invented and Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed a certain new Engine to be made, of ſingular Advantage; which eff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctually delivers One hundred Chaldrens of Coaols into his Yard, in one Day, without the uſe of Lighters, or Porters backing them, for twenty Shillings Charge; which cannot be done elſewhere by any other Perſon, at leſs expence than ten Pounds.</hi>
+            </p>
+            <p>
+               <hi>It is alſo more eſpecially obſervable, That neither this, nor any other Engine can be uſed at any place, but at the ſaid</hi> Povey's <hi>Wharf; who has likewiſe built a Ware-houſe capable of holding three thouſand Chaldrons of Coals: So that all Perſons may be ſpeedily ſupply'd with what Quantity they pleaſe. To anſwer all Objections that can be made, with reſpect to the true Water-Mea<g ref="char:EOLhyphen"/>ſure, any Perſons whatſoever may ſtand on the Wharf, and ſee their Coals Meaſur'd out of the Ship, into the Fat, by a Sworn Meeter; afterwards Loaded in Carts, and immediately carry'd to their re<g ref="char:EOLhyphen"/>ſpective Places of Aboad.</hi>
+            </p>
+            <p>
+               <hi>This Method has already given ſuch general ſatisfaction, that the <g ref="char:V">Ʋ</g>ndertaker has gain'd above five hundred Cuſtomers, eſpecially conſidering, That the Charge of Wharfage, Leading and Carriage, amounts to no more than what is uſual.</hi>
+            </p>
+            <p>
+               <hi>Every Chaldron of Coals convey'd from his Wharf fill us four<g ref="char:EOLhyphen"/>teen Sacks; and all Perſons who deal with him, may be aſſur'd ac<g ref="char:EOLhyphen"/>cording to their own Judgment, of ſaving two Shillings in every Chaldron.</hi>
+            </p>
+            <p>
+               <hi>Moreover the ſaid</hi> Charles Povey <hi>freights ſeveral Ships, upon his own Account, and theſe Perſons that are minded to take their Coals out of his Yard, ſhall have the ſame Meaſure, as is uſually given on board, a Sworn Followſhip Perter being employ'd in the Yard, from time to time, for that purpoſe.</hi>
+            </p>
+            <p>
+               <hi>They that cannot come themſelves, if they ſend a Penny-poſt Letter, with their Names and Direction, where they live, may have what Quantity they pleaſe, deliver'd at the Price and Meaſure, as if preſent, Or any one of the Clerks ſhall be ready to wait on them,
+<pb n="28" facs="tcp:29897:17"/>when they think fit, and treat with them about this Affair. But in confideration, that the Profit is ſo ſmall, ready Mony is Expected, upon the Delivery of the Coals.</hi>
+            </p>
+            <p>
+               <hi>It only remaines to let the World know, That foraſmuch as this Buſineſs is apparently too great, to be carry'd on with ſucceſs, by any one ſingle Perſon; ſeveral Gentlemen, have thought fit to joyn with the ſaid</hi> Charles Povey, <hi>as a Company, and have actually advanc'd two or three thouſand Pounds, for the better Management of the <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>taking.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>I ſhall now proceed to give a particular Explication of this Advertiſement, and then leave the Deciſion of the Matter, to the Judgment of any impartial Perſon whatſoever.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>I Think it is very plain, That I live near Execution-Dock, and as plain, that any Perſon who has occaſion, may be ſupply'd with any ſorts of Faggots, Billets, Bavins, <hi>&amp;c.</hi>
+               </p>
+               <p>II. As for the beſt of Sea Coals, there are hundreds of Families that will teſtify, they never burnt better, and as many who will readily give their Oaths, That they have ſeen their Coals Mea<g ref="char:EOLhyphen"/>ſur'd out of the Ship; and that they have Receiv'd as many Coals, as ever they uſed to have out of any other Veſſel; and have paid no more for them than the Price ſuch Coals went for in the Pool.</p>
+               <p>III. It is evident, That the Fleet lyes ſo near my Wharf, that I may Diſcourſe with ſome of the Maſters from thence, and go on board the fartheſt of the Veſſels, in a few Minutes: Then it fol<g ref="char:EOLhyphen"/>lows, that I have an Opportunity of Chooſing any Ship of Coals, before any other Perſon; and ſuch Coals as will give my Cuſto<g ref="char:EOLhyphen"/>mers ſatisfaction.</p>
+               <p>IV. I think it is as certain, That every one is freed from the Charge of Lighters, and the trouble of waiting for Tides, by the Engine I have Invented, of which I have elſewhere given a large
+<pb n="29" facs="tcp:29897:17"/>Deſcription; ſhewing how great a quantity of Coals it will De<g ref="char:EOLhyphen"/>liver in a Day, for twenty Shillings Charge; which will coſt all other Perſons ten Pounds to bring them into their Yards, or Ware-houſes. As for Inſtance, the Brewer, who lives next door to me, nay nearer to the Water-ſide than I do, gives one Shilling a Chaldron Lighterage, and one Shilling a Chaldron to the Porters that carry them: So that every hundred Chaldrons of Coals that he Conſumes, Coſts him in Lighters and Porters backing them, Ten Pounds. Another Brewer, who lives at a little farther diſtance from me, gives for Lighters and Porters carrying them, fifteen Pounds ſixteen Shillings and eight Pence, for every hundred Chal<g ref="char:EOLhyphen"/>drons ſo Deliver'd in: Nay, moſt of the great Dealers in Coals at <hi>Fleet</hi>-Bridge, give one Shilling Lighterage, three Pence Whar<g ref="char:EOLhyphen"/>fage, and nine Pence to the Porters that load their Carts, with<g ref="char:EOLhyphen"/>out laying them up in their Ware-houſes.</p>
+               <p>V. It is Apparently manifeſt to the ſight of all Men, who have, or may give themſelves the trouble of viewing my Engine, or of Inventing any other of the like Nature, That it cannot be of any Uſe, or Advantage to any Perſon elſewhere; by reaſon of the Largneſs of my Ware houſe for the ſtowing of Coals, with many other Conveniences too tedious to be recited in this ſmall Tract: Nor indeed, is there any occaſion for it, in regard that thouſands of People have Declar'd, That there are not ſuch Con<g ref="char:EOLhyphen"/>veniences, any where elſe in <hi>London,</hi> nor ſuch a ſpacious Ware<g ref="char:EOLhyphen"/>houſe in <hi>England,</hi> being large enough to hold three thouſand Chaldrons of Coals.</p>
+               <p>VI. It cannot reaſonably be deny'd, but any Perſons may be furniſh'd with what Quantity they ſhall have occaſion for.</p>
+               <p>VII. Come we now to plain ocular Demonſtration; ſo that no Man can, or will be perſwaded from what he ſees with his own Eyes: For all may have the Liberty that deſire it, and are pleaſed to give themſelves the Trouble of coming down, or ſend<g ref="char:EOLhyphen"/>ing their Friends, or Servants, to ſee that they have the true. Water-Meaſure, and the Ingrain with it; by ſtanding on the Wharf, and ſeeing their Coals Meaſur'd out of the Ship, into the Fat, by a Sworn Meeter, then loaded into Carts, and Immedi<g ref="char:EOLhyphen"/>ately carry'd to their reſpective Dwellings, with the Ingrain as
+<pb n="30" facs="tcp:29897:18"/>is uſual. This Method has given ſuch a general ſatisfaction, that it has gain'd five hundred Cuſtomers, more eſpecially conſider<g ref="char:EOLhyphen"/>ing all other Charges are ſo Reaſonable; which any Perſon may be ſatisfi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in the truth of, by the looking over my Account-Books: And none can deny, but that I Conſtantly deliver four<g ref="char:EOLhyphen"/>teen Sacks in every Chaldron, and ſuch Sacks as are generally uſed at other Places; which my <hi>Servants</hi> can give their <hi>Affida<g ref="char:EOLhyphen"/>vits</hi> of, as well as the Party that ſells the ſame Sacks: For I never had any made of a leſſer ſize for my Uſe, and theſe are always fill'd to the utmoſt Extent. However the ſtreſs of the matter, does not lye ſo much on the dimonſions of the Sacks; but reſpect ought always to be had to the largeneſs of the Meaſure.</p>
+               <p>Now to ſhew how two Shillings may be ſav'd in every Chal<g ref="char:EOLhyphen"/>dron: I ſhall ſoon make it appear to all Perſons of S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſe, if they'll be pleaſed to conſider the following Particulars. Firſt then, is it not a great ſatisfaction to every Man to have his full Weight and Meaſure? In the next place, Would not moſt People chooſe ra<g ref="char:EOLhyphen"/>ther to give ſomewhat more to be certainly aſſur'd, that they have their full Due; than to have ſome ſmall matter abated, and be at an uncertainty? To make this Argument plain, I have prov'd by undoubted Teſtimonies, that I deliver every Man his full Due, and allow all Perſons the ſame Meaſure that I receive my ſelf. Nay I challange any one that keeps a Wharf, to prove by as many Witneſſes and good Arguments as I have done, that he has Acted conformably to the ſame Method at all times: Not but that I will grant, the Wharfingers may give as good Meaſure as they receive themſelves, if they get a Price accordingly: And thus much I further believe, and know to be true of them, that for the Honor of their Wharfs, and in hopes of doing me a Diſ<g ref="char:EOLhyphen"/>kindneſs, they will let a Cuſtomer have Water-Meaſure at their uſual Price; tho they loſe two Shillings by the Bargain; hoping by this means to perſwade the Ignorant, that they do ſo at all other times. But I have already made it appear, according to every Man's Reaſon, that they cannot defray their Charges, and get Eſtates by loſing Mony out of Pocket, or by felling cheaper than what their Goods lye them in, conſidering the great Expan<g ref="char:EOLhyphen"/>ces they are as.</p>
+               <pb n="31" facs="tcp:29897:18"/>
+               <p>However, it ought to be obſerv'd, That I have nothing to Charge the Lighter-Men with, concerning their Trade; for I firmly believe, in the general, they give every Man the ſame Meaſure they receive themſelves: Neither will I condemn all thoſe that keep Wharfs; for I am perſwaded, that ſome few of them are Men of Juſtice and Honeſty: So that what they do, is more out of Cuſtom than Choice, and I have this Aſſurance from ſome of them, That they deſign to follow my Method; that is to ſay, to take their Price, and give every Man his full Due at all times. And indeed, altho the Combination may blame them; yet all the Malice of the Winkers, and the Gentlemen with their Three penny Indictments, can never ſhame them in the End.</p>
+               <p>Now to come to the Point of ſaving two Shillings in the Chal<g ref="char:EOLhyphen"/>dron, I grant, I have ſomething more, than what is uſual at other Wharfs; but in conſideration thereof, I give every Man his full Due, and in ſo doing, I am Aſſur'd, that every one who buys of me, is a conſiderable Gainer: For I will give at any time, three Shillings and Six-pence, or four Shillings, for any two Sacks of Coals, before they go out of my Yard, and yet they ſhall have twelve Sacks remaining and as good Meaſure, as has been ſold at ſome places for a Chaldron. For Example, if any Perſons would give themſelves the trouble, to look into the Records at <hi>Weſtminſter, Hicks</hi>'s-Hall, and <hi>Guild</hi>-Hall, of all the Indictments, Tryals, Fines and Cheats that have been tranſacted in the Coal<g ref="char:EOLhyphen"/>trade, they'll ſoon be convinc'd, That it would be more expedient for them to give two Shillings more in Mony for a Chaldron of Coals, and have their full Due; than to be Cheated out of three or four Shillings.</p>
+               <p>In the mean while, I would deſire the Combination, Firſt, to give me an Account, how many Chaldrons of Coals generally they make out of a Score; and who it was that ſold no more then Eighty Chaldrons of Coals for a Hundred, to Alderman <hi>Lewin</hi>'s <hi>Glaſs</hi>-houſe at <hi>Ratelif</hi>-Croſs?</p>
+               <p n="2">II. Who it was that deliver'd no more than fifteen Chaldrons three Fats of Coals, at the <hi>Devel</hi>-Tavern in <hi>Fleet</hi>-ſtreet, for one and and twenty Chaldrons?</p>
+               <pb n="32" facs="tcp:29897:19"/>
+               <p n="3">III. To declare, who he was that Cheated a certain Lord out of ſo great a quantity of Coals; inſomuch that he was Oblig'd to give the ſaid Lord twenty Guines to paſs it by; which ſaid twenty Guinies were honourably given to the Poor of the Pariſh, by the ſaid Lord's Appointment?</p>
+               <p n="4">IV. To let the World know, who it was, that ſent no more than thirty Buſhels for a Chaldron to a <hi>Paſtrey</hi>-Cook's, almoſt over againſt <hi>Shoreditch</hi> Church; and whoſe Coals were thoſe that were Meaſur'd by one <hi>Davis</hi> a Meeter, when there wanted ſix Buſhels?</p>
+               <p n="5">V. Whoſe Coals were thoſe, that were Meaſur'd in <hi>White</hi>-Chap<g ref="char:EOLhyphen"/>pel, by Order of the Court-Leet, when a Tobacconiſt, who lives near St. <hi>John</hi>'s Church in <hi>Wapping</hi> was on the Jury; and there wanted four Buſhels and half in a Chaldron?</p>
+               <p n="6">VI. I would willingly know, whoſe Coals were thoſe, that were Meaſur'd at <hi>Guild</hi>-Hall, where there wanted three Buſhels in half a Chaldron, and the Coals were ſeiz'd on for the Uſe of the Poor. Let thoſe Gentlemen give me a direct: Anſwer to theſe few Queſti<g ref="char:EOLhyphen"/>ons, beſides ſeveral others that I know of, and a great many more that are unknown to me; and in ſo doing, they'll extremely oblige their humble Servant, <hi>C. P.</hi>
+               </p>
+               <p>Now I think I have made it as manifeſt as the Sun at the Me<g ref="char:EOLhyphen"/>ridian, that every Man, who deals with me, ſaves Conſiderably: But to make the matter ſtill more plain to the meaneſt Capaciaty: I have prov'd by ſeveral Evidences, That the Buſhel I ever ſold by is bigger than the Fat, and I have likewiſe prov'd, that the Buſh<g ref="char:EOLhyphen"/>el was always well fill'd by my Servants: So that every Chaldron of Coals that I have ſold, has contain'd a Buſhel and half or two Buſhels, more than it ought; which is above the Ingrain that belongs to any one Chaldron: I have alſo often given the Ingrain, notwithſtanding the largeneſs of my Buſhel.</p>
+               <p>Moreover to prevent all Objections, we will ſuppoſe, that ſome Rubbiſh-Coals may be ſold ſome ſmall matter cheaper than mine, and the ſame Meaſure, the Ingrain only Excepted, which none of them pretends to give: Yet had not every Perſon much rather give a Shilling or two more, and conclude, that two Shillings are ſav'd by the Bargain? For what can be a greater Inconvenience to any
+<pb n="33" facs="tcp:29897:19"/>Family, than bad Coals, eſpecially in the Winter? And every one knows, there is a great deal of Difference in the Price, between the Beſt and the Worſt.</p>
+               <p>It remains only to ſhew, That I have at all times the beſt Coals that Mony can purchaſe, which appears from hence, that among all the Families I ſerv'd the laſt Year, there are not five of them, but came again, or promiſed to come, this; a plain De<g ref="char:EOLhyphen"/>monſtration, that I ſerv'd them with the beſt of Coals: More eſpecially, by reaſon that I buy the whole Freight, and always deal in ſmall Shipping; which every body will own to have ge<g ref="char:EOLhyphen"/>nerally the beſt Coals; for they can go to <hi>Sunderland,</hi> and other Places, where great Shipping cannot come: So that I hope, I have plainly Demonſtrated to all unbiaſſed Perſons, That partly in the Largneſs of the Meaſure, and partly in the goodneſs of the Coals, two Shillings is ſav'd: I ſhall Explain the reſt in a few Words.</p>
+               <p>As for the Frieghting of Ships upon my own Account, I think it is very apparent, by ſeveral Veſſels that are actually ſet out, from time to time, on my particular Account: And for what relates to Perſons, who take their Coals out of the Yard, I have prov'd by my Servants, that my Mearſure is as big or bigger than the Fat: So that it is evident, That they have as good Meaſure out of the Yard, as they receive on board the Fleet: And inſtead of having a Fellowſhip-Porter, I have a Sworn Meeter a-ſhore, to receive the Coals from the Meeter on Board: So that upon the whole, all Perſons may certainly be Aſſur'd of having their full Due, and I preſume none will Queſtion the Poſſibility of having Coals when they are ſent for. To Conclude, moſt People know, That I make but one Price with all my Cuſtomers; neither can they doubt but my Clerks are moſt proper to wait on them upon ſuch Occaſions.</p>
+               <p>As to the laſt Article about ready Mony, 'tis plain, I do expect it upon the delivery of the Coals, and for what relates to thoſe worthy Gentlemen, who have thought fit to be Concern'd with me, their under-written Names, are an undeniable Proof of the matter of Fact; beſides the Sum of Mony that is actually raiſed, for the carrying on of the preſent Undertaking.</p>
+               <pb n="34" facs="tcp:29897:20"/>
+               <p>I doubt not, but what has been deliver'd, will be judg'd a ſuf<g ref="char:EOLhyphen"/>ficient Explication of my Advertiſement, the Publiſhing of which has ſo much exaſperated my Adverſaries againſt me, and a ſatiſ<g ref="char:EOLhyphen"/>factory Vindication of my own Integrity.</p>
+            </div>
+         </div>
+         <div type="text">
+            <head>However, it is worth the while to produce, Three notable Inſtan<g ref="char:EOLhyphen"/>ces more of their Inveterate Malice towards me.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>NOt long ſince, a Linnen-Draper came to me, out of <hi>Fleet</hi>-ſtreet, next Door to the Horn-Tavern, and beſpoke five Chaldrons of Coals: As ſoon as the firſt Load was carry'd, there appear'd a certain Perſon from a Wharf, attended with two Offi<g ref="char:EOLhyphen"/>cers, and Meaſur'd two Sacks of my Coals. The Linnen-Draper de<g ref="char:EOLhyphen"/>ſir'd them to Meaſure a whole Chaldron, which they refuſed to do; telling him it was all a Cheat, and that there wanted ſix or ſeven Buſhels in a Chaldron; fore-warning him to pay me any Mony at his Peril, till he heard from them; and aſſuring him at the ſame time, that they would give as good Meaſure, for twenty three Shillings a Chaldron, as he gave me twenty five for. Whereupon, I thought it moſt proper, to make an Example of the Spark, who pretended to belong to the Wharf: Accordingly, I went to him, and requir'd him to put in Bail to my Action; but miſtruſting the juſtice of his Cauſe, he uſed many Entreaties; Diſowning every Word that he had ſaid; laying the Blame on the two Officers; promiſing in the preſence of the Linnen-Dra<g ref="char:EOLhyphen"/>per, he would be an Evidence againſt the Officers; and Declar<g ref="char:EOLhyphen"/>ing, that it was done out of Spite, on purpoſe to ruin my Trade I went to the two Officers, requiring them likewiſe to put in Bail to my Action; for all the Fault was now imputed to their Con<g ref="char:EOLhyphen"/>duct. They ſeem'd to be much ſurpriſed, and Diſown'd every Thing they ſaid or did; transferring the Blame on the aforeſaid Perſon. However, I brought them before the Linnen-Draper and his Man, who plainly prov'd Matter of Fact on them. How<g ref="char:EOLhyphen"/>ever, after many Entreaties, and owning their Miſdemeanours,
+<pb n="35" facs="tcp:29897:20"/>before the Linnen-Draper, with an ingenuous Confeſſion, that it was meerly done out of Spite, and a promiſe of Amendment, for the future, I withdrew both my Actions, and forgave them. For the Linnen-Draper declar'd, according to the beſt of his judgment, he had as many Coals of me in four bare Chaldrons, as ever he uſed to have at any other Place, for four Chaldrons and half; beſides the Fat that he receiv'd as the Ingrain, in the five Chaldrons.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>Mrs. <hi>Woodman,</hi> who keeps a Diſtillers Shop in the <hi>Minories,</hi> next door to the Sun dial, having deſir'd me to ſend her in three Chaldrons of Coals, which is the ſeventh part of a Score, full Pay, and Water-Meaſure, even according to the acknowledgment of the moſt rigid of my Adverſaries: My Servants Meaſur'd the ſame Quantity, and convey'd them to her Houſe, in three ſeveral Carts; but as ſoon as one half of them was deliver'd, two Gen<g ref="char:EOLhyphen"/>tlemen appear'd, with a Buſhel, one of whom is a Warden of a certain Company, and the other a conſiderable Dealer in Coals; the firſt Letters of their Names being <hi>R. E.</hi> and <hi>T. G.</hi> Indeed, they make no ſmall Figure in the World, and (as I am apt to believe) are ſufficiently bleſſed with the Earthly <hi>Mammon.</hi> However, the Condeſcenſion of theſe two rich Dons was ſo great, that they took upon them the drudgery of Meaſuring four Sacks of my Coals, in the ſecond Chaldron: In the mean while, my Servant <hi>John Snow,</hi> deſir'd them to Meaſure the whole Chaldron, alledg<g ref="char:EOLhyphen"/>ing, that otherwiſe they could not poſſibly do juſtice to both Par<g ref="char:EOLhyphen"/>ties: But taking no notice of this Admonition, they perempto<g ref="char:EOLhyphen"/>rily declar'd to Mrs. <hi>Woodman,</hi> that there wanted above two Buſh<g ref="char:EOLhyphen"/>els of Coals, in the four Sacks, and conſequently, that ſeven Buſh<g ref="char:EOLhyphen"/>els were wanting in every Chaldron; reckoning fourteen Sacks to the Chaldron. Nay one of them told this Gentlewoman in my hearing, That if ſhe would Indict me, they would readily take their Oaths before a Magiſtrate, to confirm the Truth of their Aſſertion. Whereupon perceiving, I had to do with two Knights of the Poſt; I ſent to the Meeters-Office for a Meaſure and three
+<pb n="36" facs="tcp:29897:21"/>Sworn Meeters, who having actually Meaſur'd the ſaid Coals, on the ſecond Day of <hi>Auguſt,</hi> One thouſand and Seven hundred, there were three Pecks over Meaſure; to the extreme Mortifi<g ref="char:EOLhyphen"/>cation of the above mention'd haughty Gentlemen, the Air of whoſe Countenance is now quite chang'd; ſo that they hold down their Heads, and lowr like a couple of <hi>Iriſh Evidences</hi> juſt a going to loſe their Ears: Altho the Day before, they boldly de<g ref="char:EOLhyphen"/>clar'd, in the preſence of ſeveral Perſons, That <hi>their Fleſh trem<g ref="char:EOLhyphen"/>bl'd within them to ſee how I had Cheated Mrs.</hi> Woodman, <hi>in the Meaſure of her Coals,</hi> and upon what they had ſaid to her, ſhe refuſed to take in the third Chaldron.</p>
+               <p>Here follows the Declaration of three Sworn Meeters relating to this Affair.</p>
+               <p>
+                  <hi>On the ſecond Day of</hi> Auguſt, <hi>One thouſand and Seven hundred, we Meaſur'd two Chaldrons of Mr.</hi> Povey's <hi>Coals, at Mrs.</hi> Wood<g ref="char:EOLhyphen"/>man's <hi>in the</hi> Minories; <hi>as to which two Chaldrons, we heard</hi> T. G. <hi>affirm, That he would take his Oath, there wanted above two Buſh<g ref="char:EOLhyphen"/>els of Coals in four Sacks, according to his Way of Meaſuring them: On the contrary, we are all ready to make our Corporal Oaths, before a Maſter in</hi> Chancery, <hi>That there were two complete Chaldrons, with three Pecks over and above: And we further declare, That the ſaid Coals were Meaſur'd without any Colluſion, Fraud, or Deceit in the leaſt, and that three Chaldrons of Coals, are the ſe<g ref="char:EOLhyphen"/>venth part of a Score, full Pay, as alſo, That one Chaldron is the One and twentieth part of a Score, commonly call'd</hi> Water-Mea<g ref="char:EOLhyphen"/>ſure.</p>
+               <list>
+                  <item>John Cleavely <hi>Sworn Meeters to the City.</hi>
+                  </item>
+                  <item>John Davis <hi>Sworn Meeters to the City.</hi>
+                  </item>
+                  <item>Samuel Barnes <hi>Sworn Meeters to the City.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>My over-induſtrious Adverſaries, uſe their utmoſt Endeavours to perſwade the Maſters of Veſſels, That they loſe a Chaldron of Coals in every Score, by Meaſuring them at my Wharf; which is ſo abſurd and extravagant an Aſſeveration, that it would ſeem much rather to have been utter'd by a Buffoon on a Stage, or a
+<pb n="37" facs="tcp:29897:21"/>Lyer in the Stocks, than by a Coal-Merchant at <hi>Billinſgate:</hi> For can it be reaſonably ſuppoſed, That a Fat is capable of holding more at my Wharf, than it is at any other Place? Or would they induce the World to believe, That the Meeters-Office keeps a particular Fat, for my Uſe; or that Execution-Dock has an irre<g ref="char:EOLhyphen"/>ſitible Charm, to oblige the Meeters to break the Sacred Oaths, by which they are bound to do juſtice, between Buyer and Sel<g ref="char:EOLhyphen"/>ler?</p>
+               <p>But if the above-ſpecify'd Aſſertion holds good, <hi>viz.</hi> That I have larger Meaſure, than any other Dealer in the Coal-trade; then it is evident, That all Perſons have a doubleAdvantage, in dealing with me: For inſtead of making twenty one Chaldrons out of every Score; they are ſure of receiving Twenty two, from me, whenever they ſee them Meaſur'd out of the Ship; as many or moſt doe, who take any conſiderable Quantity: So that of Neceſſity, they muſt wave this Argument, or elſe all their Cu<g ref="char:EOLhyphen"/>ſtomers will come to <hi>Execution-Dock.</hi>
+               </p>
+               <p>NOw if ſuch Things as theſe, are allow'd of and encourag'd, no Man Living can be ſafe, but is liable to be ruin'd in his Trade and Reputation, at the Pleaſure of every deſperate Vil<g ref="char:EOLhyphen"/>lain; eſpecially by ſuch proceedings, as the Three-penny Indict<g ref="char:EOLhyphen"/>ment. For Example, ſuppoſe a notorious Rogue, or any other Malicious Perſon ſhould come to a Maulſter, whom he has a Spleen againſt, or ſend a third Perſon to Buy two or three Quarters of Mault; with Inſtructions to convey them to a certain Place: The Maulſter being ignorant of their Treachery, orders his Ser<g ref="char:EOLhyphen"/>vants to Meaſure the ſame, according to the aforeſaid Directions. Whereupon, notwithſtanding the Mault was deliver'd full Mea<g ref="char:EOLhyphen"/>ſure from his Houſe; partly thro the treachery of a Secret Ene<g ref="char:EOLhyphen"/>my, and partly by the Waſte that may happen in the Grain, a Peck and half, or half a Buſhel of Meaſure is wanting, upon the delivery at the Place appointed. So likewiſe, if a Brewer ſhould deliver a full Barrel of Beer to his Servants; nevertheleſs, by the Jolting of the Dray, it might want a Pint, or a Quart of being
+<pb n="38" facs="tcp:29897:22"/>full, when brought to the Victualler; which every body knows, cannot be prevented, and many other Inſtances of the like Na<g ref="char:EOLhyphen"/>ture, might be eaſily produc'd: I ſay if theſe Things are allow'd, every Man is as liable to be ruin'd by the Breath of a ſpiteful Miſcreant, as he may be by Devouring Flames, or a Rogue that Riffles him of his Subſtance: Nay the Caſe is worſe than either of theſe; for he may recover a Loſs by Fire, by the Charity of well diſpoſed People; or peradventure he may Apprehend the Villain, and Regain his Subſtance: But when he is once depriv'd of his Trade and Credit, and perhaps without the leaſt Provoca<g ref="char:EOLhyphen"/>tion, by a ſet of proſligate Wretches, it is a thouſand to one, whe<g ref="char:EOLhyphen"/>ther ever he be able to retrieve it to his Dying Day.</p>
+               <p>Many Judicious Perſons are apt to believe, That the next Age will ſurpaſs this, in Villany, Perjury, and Malicious Slanders; but I am of the Contrary Opinion: For what Age ever did, or can out-do this in Subtil Devices, Perfidiouſneſs, and all manner of ſiniſter Practices; eſpecially in ſuch Inſtances as I have been treating of? What would a <hi>Turk,</hi> a <hi>Jew</hi> or Heathen take Men to be, if they ſhould hear of a Three-penny Indictment, carry'd on by a Combi<g ref="char:EOLhyphen"/>nation of Men under the Colour of Juſtice, that never uſed any themſelves; but inſtead of that, are Recorded for the worſt of Actions, that can be committed in the way of Trade? What would they think, if they were to ſee twelve Men Sworn by a Soveraign Prince, to do Juſtice, to the beſt of their Knowledge, and according to the Evidence given; and at the ſame time, Act<g ref="char:EOLhyphen"/>ing quite Contrary in all Reſpects: I am perſwaded, they would Conclude, That it was a Combination of Men, that had met with ſome Perſon or other, who gave them a Check in the full Career of their fraudulent Dealing: And ſince no Matter of Fact, could be prov'd againſt him, they deviſed a counterfeit Cheat, to impair the Reputation of ſuch an over-bold Oppoſer. And as for the Jury, they would take them to be Men depriv'd of their Sen<g ref="char:EOLhyphen"/>ſes, or Perſons of debauch'd Principles, disbelieving a future State: Or at the beſt, Conclude, That ſome of the Combination, with ſeveral of their Agents, were Impannell'd with them, with a Reſolution of defending their bad Old Cauſe againſt all man<g ref="char:EOLhyphen"/>ner of Oppoſition, whatever it might coſt them, even to the
+<pb n="39" facs="tcp:29897:22"/>making Shipwrack of a good Conſcience in this World, and to the hazard of their everlaſting Happineſs hereafter.</p>
+               <p>I doubt not but in a few Years, the great Council of the Nation, will conſider it among their moſt ſerious Debates, ſo as to impower the Gentlemen of the Meeters-Office with the ſame Prerogative, and Management of the Coal-trade a-ſhore, which they have on board the Fleet, in the Pool: Then a ſtop will be effectually put to the Lawleſs and exorbitant Demands of the Quarterly Winking-mony: Then the thirty Buſhels inſtead of a Chaldron, will be abſolutely laid aſide; and all Perſons will have the ſame Mea<g ref="char:EOLhyphen"/>ſure a-ſhore, as they now Receive on board the Fleet: In ſhort, when Matters are ſo regulated, one of the main Oppreſſions of the diſconſolate Widows and Orphans of this populous City, will quite ceaſe, and they'll no longer have any cauſe to Complain, for want of their due Meaſure in Coals.</p>
+               <p>Among many other ſubtil Contrivances, my induſtrious Ad<g ref="char:EOLhyphen"/>verſaries thought fit to give it out, That they had a Tract in the Preſs call'd, <hi>An Anſwer to</hi> Povey's <hi>Advertiſement concerning his Method of ſelling Coals;</hi> but this proves as falſe as all the reſt of their notorious Slanders. However I now peremptorily Chal<g ref="char:EOLhyphen"/>lenge the wiſeſt of them all, nay the whole Combination together, to give ſuch an Anſwer to the Contents of this ſmall Tract, as ſhall be reputed Satisfactory, by any Competent and impartial Judges whatſoever, or to produce any authentick Evidences, or ſolid Reaſons and Arguments for the making good their Allega<g ref="char:EOLhyphen"/>tions, and the heavy Charge, they have brought againſt me.</p>
+               <p>If they can do this I ſhall readily ſubmit to the ſevereſt Cen<g ref="char:EOLhyphen"/>ſure of the World; but if they refuſe, then it will appear, That what I have writ, is plain matter of Fact.</p>
+               <p>To conclude, let thoſe Catch-poles who were Diſappointed of their Winking-mony, be tranſported with Spleen and Paſſion; let them Swear, <hi>It is a Cheat to be Juſt, and Juſt, to Cheat;</hi> let them Commence a New Indictment, upon a pretended Cheat of their own Contrivance: Let twelve Men be ſummon'd to give their Verdict in a Three-penny Sham; let them ſlight the Charge
+<pb n="40" facs="tcp:29897:23"/>of a Juſt Judge, and the Checks of their own Conſciences; let them break the inviolable Oaths of doing Juſtice between Man and Man: Nay let the whole Combination unite themſelves in a ſtricter League than ever; let them Cheat and Defraud, and endeavour to perſwade People, out of their own Natural Reaſon; let their Fury be raiſed to the higheſt Pitch of Spite and Envy: Nay let them diſturb the Repoſe of Civil Society, with the falſe Alarms of an imaginary Cheat, that was never tranſacted, nor ſo much as thought of, but only proceeded from the rancour of their own corrupt Hearts: Let them Sweat and Run from Houſe to Houſe; diſcovering the Vanity of their own diſtemper'd Brains, by the Venom of a Spiteful Tongue: Nevertheleſs, in the midſt of all this Hurry and Noiſe, I'll Steer on my Courſe, in the Channel of Truth and Juſtice. And tho at any time the Flouds of Wrong and Oppreſſion, augmented with the Spring-tides of Spite and Envy, may for a while intercept my Steady Courſe, and retard my intended Voyage thro a Stream of uninterrupted Calmneſs: Yet I have this aſſurance, That I ſhall be aſſiſted with the freſh Gales of a quiet Mind. and at laſt, arrive in a ſafe Harbour; where the ſwelling Tides of Perjury and Oppreſſion, will Ebb in the Streams of a ſilent Calm.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="essay">
+            <pb n="41" facs="tcp:29897:23"/>
+            <head>
+               <hi>PROPOSALS</hi> for the Improvement of Trade and Navigation in general, and of the Col<g ref="char:EOLhyphen"/>liery-Trade to <hi>New-Caſtle</hi> in particular.</head>
+            <p>AS no conſiderate Perſon can be ignorant of the great decay of Trade in general, more eſpecially that Part of it which has any relation to Maritime Affairs: So on the other hand, very few are ſenſible of the true Cauſes of ſuch diſmal Misfortunes. Some attribute this Defect to the Vices of the Nation, and others to the Scarcity of Mony; but the main Source of theſe Miſcarriages, (as I take it) is the want of a regular Conduct, in the management of every particular Trade, or Calling: Indeed, many ways and means have been deviſed, which have hitherto prov'd in<g ref="char:EOLhyphen"/>effectual, and the chief cauſes of ſuch Diſappointments may be re<g ref="char:EOLhyphen"/>duc'd to theſe two Articles, <hi>viz.</hi> Firſt, that the moſt proper Methods are not follow'd, or Secondly, whenever they have been propoſed, they were rejected; few, or none thinking it worth the while to canvaſs the matter, or to give themſelves any trouble in the rectify<g ref="char:EOLhyphen"/>ing of Errours: Inſomuch that what every individual Perſon ought to apply his utmoſt Endeavours to remedy, is now altogether neg<g ref="char:EOLhyphen"/>lected by the whole Community; and inſtead of uſing the means, we only make it our buſineſs to utter lamentable Complaints. For whereſoever a Man goes, he either perceives, or hears of the effects of a bad Trade, or of ſome grievous Diſaſter, amongſt all ſorts of Profeſſions: Thus if you happen to meet with any Gentlemen who enjoy plentiful Eſtates, they are apt to complain of the ſmall Im<g ref="char:EOLhyphen"/>provement of them; and if recourſe be had to their Tenants, they tell you, Their Rents are ſo great, and the Times ſo bad, that they are render'd uncapable of defraying the neceſſary Charges incident to Humane Life: If application be made to the Tradeſmen, they im<g ref="char:EOLhyphen"/>mediately cry out, of the dulneſs of the Times and the general decay of Trade, or elſe they accuſe one another of felling their Goods or Merchandizes at ſo low a Rate, that they cannot ſubſiſt any longer: If enquiry be made of the Merchant, he tells you, That Merchandizing
+<pb n="42" facs="tcp:29897:24"/>is now reduc'd to ſo low an Ebb, that he can improve his Caſh in the publick Funds, or Banks of the Nation, or in Stock-Jobbing, at home, to much better purpoſe, than venturing at Sea: If you ſhould at any time accoſt the Owners of Shipping, they are ready to give you a doleful Account of great Sums of Mony ventur'd in their Bottoms, without any Improvement at all, but rather Loſs than Gain; adding perhaps, That in a few Years the greateſt Part of their Stocks will be ſunk by the decay of their Ships, or the Maſters running out of the Stock: When you come to diſcourſe with the Maſters of ſuch Veſſels, they declare, That Freightage is ſo low in moſt Countries, that they know not whether to go, to get any Thing themſelves, or to ſatisfy their Owners, and as for the Common Sailers, you may here them in general, wiſhing for the encouragement of Navigation, and the encreaſe of their Monthly Pay: Laſtly, if you enquire after the La<g ref="char:EOLhyphen"/>boaring Man's Condition, he makes a grievous Complaint for want of Employment, or that when he is employ'd, his Daily Wages are ſo inconſiderable, that he is not able to maintain his Family.</p>
+            <p>I could produce many more Inſtances of the like Nature, but my preſent deſign and this little Tract will not admit of ſuch large Di<g ref="char:EOLhyphen"/>greſſions: Neither indeed, is there any occaſion for a farther Diſplay of theſe melancholy Scenes, or to inſiſt any longer on ſuch plain matters of Fact, which all Perſons muſt needs be ſenſible of, at one time, or another. Therefore I ſhall now explain the main Point of the Buſineſs, and endeavour to overcome all manner of obſtacles, by laying down ſuch Rules, which, if put in practice, will effectually redreſs all our above-ſpecify'd Grievances. As it has been an ancient Maxim amongſt us in our Iſland of Great <hi>Britain,</hi> That the ſafety of the Nation depends on the ſtrength of our Fleet; ſo I am as fully ſatisfy'd, That the Grandeur and Flouriſhing Trade of <hi>England</hi> is chief<g ref="char:EOLhyphen"/>ly promoted by the improvement of Navigation: For as Mony is ſaid to be the Sinews of War; ſo rich Fleets of Merchant-men conſtantly arriving at the Ports of any City, may be juſtly reputed the Nerves, or rather the main <hi>Baſis</hi> of Trade. But if it be demanded, by what means Trade may be reduc'd to a flouriſhing Condition? I anſwer, There is not one Trade-Society, or Corporation, within this King<g ref="char:EOLhyphen"/>dom, but by a diſcreet management of Affairs among themſelves, may make ſuch By-laws, or mutual Contracts as will be ſufficient for the preventing of all thoſe Misfortunes, that uſually happen in the way of Trade; nay, had I a fair opportunity, I could give a parti<g ref="char:EOLhyphen"/>cular Account to the Publick, of the ill Conduct of moſt of them: I could alſo produce certain Rules and Directions for the rectifying
+<pb n="43" facs="tcp:29897:24"/>of many Irregulatities incident to Trade, and ſolve all Objections, that might be made to the contrary. Indeed, moſt of our Diſappoint<g ref="char:EOLhyphen"/>ments as to this Affair, are owing to the want of Publick Spirits, Men of generous Principles, who would not grudge to ſpend their Time, or Mony, in promoting the Advantages of the Common-Wealth: But alaſs! Inſtead of ſo laudable a Practice, every one is ready, upon all Occaſions to conſult his own private Intereſt, with<g ref="char:EOLhyphen"/>out any regard to that of the Community, and it is to be wiſh'd, That ſuch Self-intereſt do not at laſt overthrow it ſelf and prove more prejudicial to thoſe that adhere to it, than they are aware of. But it is now time to reſume the former Arguments, and to give a more particular account of my preſent Deſign.</p>
+            <p>It is well known, That the Colliety-Trade brings up a greater number of Seamen, than all our Navigation elſewhere, and it muſt be acknowledg'd, that when Owners and Maſters of Veſſels gain by Trading to <hi>New-Caſtle,</hi> then, and then only, our Trade to foreign Parts is in a flouriſhing Condition: But were I oblig'd to produce a true Deſcription of the lamentable State of the <hi>New-Caſtle</hi> Trade, I am perſwaded, it would appear almoſt paſt all Belief: Should I tell you, how many thouſands of Pounds have been run out within the ſpace of a few Years, and more eſpecially this Summer: Should I in<g ref="char:EOLhyphen"/>form you, That ſome Owners of Veſſels, who have laid out two, or three thouſand Pounds in fitting them for the ſaid Trade to <hi>New-Caſtle,</hi> would be glad to diſpoſe of them for half the Value, and to my cer<g ref="char:EOLhyphen"/>tain knowledge, have not made One <hi>per Cent.</hi> of their Mony, for ſeveral Years laſt paſt; nay ſhould I add, that many Inhabitants of this City have ruin'd themſelves and their Families by this means: Should I certify you of the general Complaint I hear from the Ma<g ref="char:EOLhyphen"/>ſters of ſuch Veſſels, how they have run out their Stocks and reduc'd themſelves to Penury, by loſing ten, twenty, or thirty Pounds in a Voyage, beſides Wear and Tear, and the hazard of their Ships: Laſt<g ref="char:EOLhyphen"/>ly, ſhould I conduct you to the Priſons and ſhew you the great num<g ref="char:EOLhyphen"/>ber of Traders to <hi>New-Caſtle</hi> confin'd therein; or ſhould I bring you the File of Tradeſmens Bills, that are as yet unſatisfy'd: You would certainly conclude the Trade of the Nation, and eſpecially that of <hi>New-Caſtle,</hi> to be in a moſt deplorable Condition, and paſt reviving, unleſs ſome proper Remedy, were ſpeedily apply'd; which (in my Opinion) muſt needs be effected by one of the two following Methods, <hi>viz.</hi>
+            </p>
+            <pb n="44" facs="tcp:29897:25"/>
+            <p>I. That an authentick Inſtrument be drawn up conformably to the Common Intereſt of the Society, and that of every individual Per<g ref="char:EOLhyphen"/>ſon; ſo as none may, or can reaſonably refuſe to ſign it; the ſub<g ref="char:EOLhyphen"/>ſtance of which may be to this effect, <hi>viz.</hi> 1. That the Maſters of Veſſels ſhall be oblig'd to give no more than one Penny for every Chaldron they bring into the River of <hi>Thames,</hi> and by that means be aſſur'd of receiving twenty Fold: 2. That the greateſt part of the Profits ariſing from that Penny in a Chaldron, ſhall be appropriated to the relief of their Widows and Orphans, after their Deceaſe, or even to their own Uſe, when by Age, or Loſſes, they ſhall be ren<g ref="char:EOLhyphen"/>der'd uncapable of following their Employments: 3. That all en<g ref="char:EOLhyphen"/>gag'd in this Concern, except one, ſhall be Maſters of Veſſels who Trade, or have Traded to <hi>New Caſtle,</hi> and Men of their own Choice (according to the majority of Votes) ſhall be the Managers of it. Now if any Maſters of Ships ſhould at firſt ſeem unwilling to conſent to ſuch an Agreement, it is not to be doubted but their Owners will oblige them to it: But admitting that ſome may peremptorily refuſe to ſubſcribe, can it be imagin'd, That a few obſtinate Perſons will be able to alter the property of the Market? Or can it be reaſonably ſuppoſed, That Men will give their Goods away, when they may be diſpoſed of at a Market-price?</p>
+            <p>II. Foraſmuch as the Lighter-men and Water-men are incorporated into a Company, by a late Act of Parliament, it would be expedient to ſettle an Office at <hi>Billinſgate,</hi> that might oblige all Maſters of Veſ<g ref="char:EOLhyphen"/>ſels, who Trade to <hi>New-Caſtle,</hi> to enter their Names therein, and to ſell their Coals, according to the Directions of the ſaid Office: In caſe of their Refuſal, the Company may agree among themſelves to ſend no Lighters on board ſuch Ships, till they comply'd with ſo reaſon<g ref="char:EOLhyphen"/>able a Propoſal; and in conſideration thereof, all Maſters of Veſſels ſhall allow One Penny in every Chaldron of Coals they bring into the River, to be diſpoſed of as follows; that is to ſay, One half of the Profits ariſing from the ſaid Impoſt of One Penny <hi>per</hi> Chaldron, for defraying the Charges of the Office, and the other half, for the Uſe of the Company, to relieve the Widows and Orphans of Lighter-men and Water-men, as alſo ſuch of them as are paſt their Labour, or other<g ref="char:EOLhyphen"/>wiſe fallen to Decay.</p>
+            <p>If Time and the bulk of this ſmall Tract would permit, I could propoſe ſeveral other Methods, and confute all manner of Objections that might be ſtarted in oppoſition to what has been above-deliver'd, or againſt the eſtabliſhing of ſo commendable a Settlement, which (as there are good grounds to believe) would be extremely advantagious to the Nation in general, and to the Coal-trade in particular. To
+<pb n="45" facs="tcp:29897:25"/>conclude, if theſe my Endeavours to be ſerviceable to the Publick, meet with a favourable Reception among the Judicious, I ſhall be en<g ref="char:EOLhyphen"/>courag'd to draw up ſuch Articles, as I doubt not but will give gene<g ref="char:EOLhyphen"/>ral ſatisfaction, and afford the beſt means for the accompliſhing of the propoſed Deſign.</p>
+            <p>In the mean while, let our moſt Gracious King be always triumphant and full of honourable Succeſs; revered in the higheſt degree both at home and abroad; ever Reigning in the Hearts of his Subjects, and ſtriking a Terrour within thoſe of His Enemies: Let His Parliaments be tranſcendently eminent for their Wiſdom and Unanimity: Let His Nobles be magnificent and ſagacious, and all His People Loyal: Let His Arms be Victorious and His Coffers full: Let our Clergy be learn<g ref="char:EOLhyphen"/>ed, and our Laity induſtrious: Let our Churches and Congregations be numerous: Let our Preachers be eloquent in the Pulpit, and exem<g ref="char:EOLhyphen"/>plary in their Lives and Converſations: Let our Auditors be attentive, and ready to put in practice what they hear: Let Vice, Immorality and Profaneneſs be reduc'd to the loweſt Ebb: Let Tragedies, Come<g ref="char:EOLhyphen"/>dies and Farces, be hiſſed off the Stage: Let the Actors and Buf<g ref="char:EOLhyphen"/>foons do Pennance for their horrid Blaſphemies; and let their Play<g ref="char:EOLhyphen"/>houſes be turn'd into Hoſpitals for the relief of the Poor: However, notwithſtanding all theſe ſingular Advantages; unleſs ſome proper Meaſures be taken for the more effectual Improvement of our Navi<g ref="char:EOLhyphen"/>gation and Maritime Commerce, more eſpecially to <hi>New-Caſtle,</hi> we can never hope to be a People completely happy, or to ſee that noble Stock of TRADE, (in which <hi>England</hi> may well be ſaid to ſurpaſs the greateſt Part of the European Nations) Flouriſhing in its Meridian Luſtre and utmoſt Latitude.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
